@@ -1,0 +1,61 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storePassword": "00000019C625FC192474743429CBB35A3643F009B1891FFBCFB3BCD0A7067C572FFD93F8E86D1C4D28",
+          "certpath": "./entry/hwcert/debug/debug.cer",
+          "keyAlias": "debug",
+          "keyPassword": "0000001942A46D42E221169A40F6C630E56ACA79FF89CA14D9EC4C11824B277CA186510822C31C1283",
+          "profile": "./entry/hwcert/debug/高职单招考试聚题库-调试证书.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "./entry/hwcert/debug/debug.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "library",
+      "srcPath": "./library",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

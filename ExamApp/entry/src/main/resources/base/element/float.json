@@ -1,0 +1,52 @@
+{
+  "float": [
+    {
+      "name": "font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "textXs",
+      "value": "10vp"
+    },
+    {
+      "name": "textSm",
+      "value": "12vp"
+    },
+    {
+      "name": "textBase",
+      "value": "14vp"
+    },
+    {
+      "name": "textLg",
+      "value": "15vp"
+    },
+    {
+      "name": "textXl",
+      "value": "16vp"
+    },
+    {
+      "name": "text2Xl",
+      "value": "18vp"
+    },
+    {
+      "name": "text3Xl",
+      "value": "20vp"
+    },
+    {
+      "name": "text4Xl",
+      "value": "24vp"
+    },
+    {
+      "name": "text5Xl",
+      "value": "28vp"
+    },
+    {
+      "name": "roundedBase",
+      "value": "4vp"
+    },
+    {
+      "name": "roundedLg",
+      "value": "12vp"
+    }
+  ]
+}

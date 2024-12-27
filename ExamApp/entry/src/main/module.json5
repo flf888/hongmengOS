@@ -1,0 +1,61 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone",
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": true,
+    "pages": "$profile:main_pages",
+    "atomicService": {
+      "preloads": [
+        {
+          "moduleName": "library"
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:app_icon",
+        "label": "$string:app_name",
+        "startWindowIcon": "$media:app_icon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ],
+        "supportWindowMode": ["fullscreen"]
+      }
+    ],
+    "metadata": [
+      // 配置信息如下
+      {
+        "name": "client_id",
+        "value": "111826155"
+      }
+    ],
+    "requestPermissions": [
+      {
+        "name": 'ohos.permission.KEEP_BACKGROUND_RUNNING',
+        "usedScene": {
+          "abilities": ['EntryAbility'],
+          "when": 'always'
+        }
+      }
+    ],
+
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/Splash",
+    "pages/DnTabBarPage",
+    "pages/home/HomePage",
+    "pages/InitDataPage",
+    "pages/exam/QuickTestMainPage",
+    "pages/exam/ExamSwitchSearchPage",
+    "pages/exam/ExamMiddleResultPage",
+    "pages/exam/ExamDetailsResultPage",
+    "pages/exam/ExamPaperDetailsResultPage",
+    "pages/knowledge/KnowledgePage",
+    "pages/exam/ExaminationPaperDetailPage"
+  ]
+}

@@ -1,0 +1,1594 @@
+{
+  "gridmember": {
+    "appName": "网格员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/网格员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725313",
+    "oauthClientId": "112339713",
+    "appId": "5765880207855138049"
+  },
+  "shearerdriver": {
+    "appName": "采煤机司机考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/采煤机司机-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725379",
+    "oauthClientId": "112339779",
+    "appId": "5765880207855211381"
+  },
+
+  "electrician": {
+    "appName": "电工考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/电工-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727629",
+    "oauthClientId": "112342029",
+    "appId": "5765880207855129275"
+  },
+
+  "senioriup": {
+    "appName": "高职单招考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/高职单招Release.p7b",
+    "bundleId": "5765880207855211755",
+    "oauthClientId": "111826155",
+    "appId": "5765880207855106061"
+  },
+  "exam": {
+    "appName": "辅警协警考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/辅警协警元服务-profileRelease.p7b",
+    "bundleId": "5765880207855223367",
+    "oauthClientId": "111837767",
+    "appId": "5765880207855105785"
+  },
+  "lawenforce": {
+    "appName": "执法资格考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/执法资格元服务-profileRelease.p7b",
+    "bundleId": "5765880207855251699",
+    "oauthClientId": "111866099",
+    "appId": "5765880207855106327"
+  },
+  "construction": {
+    "appName": "建筑三类人员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/建筑三类人员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855718401",
+    "oauthClientId": "112332801",
+    "appId": "5765880207855136383"
+  },
+  "nursery": {
+    "appName": "保育员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/保育员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855331819",
+    "oauthClientId": "111946219",
+    "appId": "5765880207855115177"
+  },
+  "houseagent": {
+    "appName": "房地产经纪人考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/房地产经纪人-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855718429",
+    "oauthClientId": "112332829",
+    "appId": "5765880207855136147"
+  },
+  "partyactivists": {
+    "appName": "入党积极分子考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/入党积极分子-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855332379",
+    "oauthClientId": "111946779",
+    "appId": "5765880207855136631"
+  },
+  "swlawenforce": {
+    "appName": "税务执法资格考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/税务执法资格-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725269",
+    "oauthClientId": "112339669",
+    "appId": "5765880207855162397"
+  },
+  "xzlawenforce": {
+    "appName": "行政执法资格考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/行政执法资格-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727943",
+    "oauthClientId": "112342343",
+    "appId": "5765880207855128175"
+  },
+  "galawenforce": {
+    "appName": "公安执法资格考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/公安执法资格-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855332423",
+    "oauthClientId": "111946823",
+    "appId": "5765880207855127263"
+  },
+  "security": {
+    "appName": "保安员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/保安员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855331769",
+    "oauthClientId": "111946169",
+    "appId": "5765880207855114533"
+  },
+  "cetthree": {
+    "appName": "英语三级考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/英语三级-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855332459",
+    "oauthClientId": "111946859",
+    "appId": "5765880207855127921"
+  },
+  "hnncommonzsb": {
+    "appName": "湖南专升本",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/湖南专升本-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727751",
+    "oauthClientId": "112342151",
+    "appId": "5765880207855162691"
+  },
+  "teacher": {
+    "appName": "教师资格证考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/教师资格证-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855350357",
+    "oauthClientId": "111964757",
+    "appId": "5765880207855135761"
+  },
+  "dietitian": {
+    "appName": "公共营养师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/公共营养师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855350377",
+    "oauthClientId": "111964777",
+    "appId": "5765880207855127739"
+  },
+  "climbing": {
+    "appName": "登高证考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/登高证-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855350391",
+    "oauthClientId": "111964791",
+    "appId": "5765880207855145609"
+  },
+  "foodsafety": {
+    "appName": "食品安全管理师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/食品安全管理师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855350401",
+    "oauthClientId": "111964801",
+    "appId": "5765880207855145707"
+  },
+  "electricsafe": {
+    "appName": "国家电网安规考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/国家电网安规-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855350415",
+    "oauthClientId": "111964815",
+    "appId": "5765880207855136553"
+  },
+  "safeengineer": {
+    "appName": "安全工程师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/安全工程师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717881",
+    "oauthClientId": "112332281",
+    "appId": "5765880207855213953"
+  },
+  "forklift": {
+    "appName": "叉车司机考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/叉车司机-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727959",
+    "oauthClientId": "112342359",
+    "appId": "5765880207855145497"
+  },
+  "publishing": {
+    "appName": "出版专业资格考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/出版专业资格-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855724263",
+    "oauthClientId": "112338663",
+    "appId": "5765880207855193873"
+  },
+  "juniornurse": {
+    "appName": "初级护士考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/初级护士-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855724295",
+    "oauthClientId": "112338695",
+    "appId": "5765880207855211793"
+  },
+  "elevator": {
+    "appName": "电梯操作员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/电梯操作员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855724825",
+    "oauthClientId": "112339225",
+    "appId": "5765880207855194051"
+  },
+
+  "pediatricszzys": {
+    "appName": "儿科主治医师聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/儿科主治医师-元服务-profileRelease.p7b",
+    "bundleId": "",
+    "oauthClientId": "",
+    "appId": ""
+  },
+  "ejconstructor": {
+    "appName": "二级建造师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/二级建造师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855728033",
+    "oauthClientId": "112342433",
+    "appId": "5765880207855128049"
+  },
+  "fckzzys": {
+    "appName": "妇产科主治医师聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/妇产科主治医师-元服务Release.p7b",
+    "bundleId": "5765880207855717405",
+    "oauthClientId": "112331805",
+    "appId": "5765880207855229341"
+  },
+  "welder": {
+    "appName": "焊工考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/焊工-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727669",
+    "oauthClientId": "112342069",
+    "appId": "5765880207855129103"
+  },
+  "gold": {
+    "appName": "黄金从业资格考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/黄金从业资格-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727993",
+    "oauthClientId": "112342393",
+    "appId": "5765880207855195199"
+  },
+  "homeedu": {
+    "appName": "家庭教育指导师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/家庭教育指导师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855718359",
+    "oauthClientId": "112332759",
+    "appId": "5765880207855261207"
+  },
+  "supervisor": {
+    "appName": "监理工程师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/监理工程师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725119",
+    "oauthClientId": "112339519",
+    "appId": "5765880207855136035"
+  },
+  "examWeb": {
+    "appName": "聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/聚题库-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727595",
+    "oauthClientId": "112341995",
+    "appId": "5765880207855727501"
+  },
+  "laborsecurity": {
+    "appName": "劳动保障协理员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/劳动保障协理员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855724325",
+    "oauthClientId": "112338725",
+    "appId": "5765880207855163105"
+  },
+  "claimadjuster": {
+    "appName": "理赔员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/理赔员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727975",
+    "oauthClientId": "112342375",
+    "appId": "5765880207855194291"
+  },
+  "grainoil": {
+    "appName": "粮油保管员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/粮油保管员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725293",
+    "oauthClientId": "112339693",
+    "appId": "5765880207855211229"
+  },
+  "firerescuers": {
+    "appName": "灭火救援员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/灭火救援员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855724807",
+    "oauthClientId": "112339207",
+    "appId": "5765880207855162905"
+  },
+  "hrexam": {
+    "appName": "人力资源师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/人力资源师-元服务-profileReleaseRelease.p7b",
+    "bundleId": "5765880207855718607",
+    "oauthClientId": "112333007",
+    "appId": "5765880207855211949"
+  },
+
+  "reproductive": {
+    "appName": "生殖健康咨询师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/生殖健康咨询师-元服务-profileRelease.p7b",
+    "bundleId": "",
+    "oauthClientId": "",
+    "appId": ""
+  },
+  "cashauditor": {
+    "appName": "收银审核员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/收银审核员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855724441",
+    "oauthClientId": "112338841",
+    "appId": "5765880207855193595"
+  },
+  "cashier": {
+    "appName": "收银员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/收银员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855724431",
+    "oauthClientId": "112338831",
+    "appId": "5765880207855163549"
+  },
+  "questions": {
+    "appName": "搜题侠",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/搜题侠-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855724395",
+    "oauthClientId": "112338795",
+    "appId": "5765880207855128965"
+  },
+  "carhailing": {
+    "appName": "网约车司机考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/网约车司机-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727693",
+    "oauthClientId": "112342093",
+    "appId": "5765880207855138127"
+  },
+  "psychiatrist": {
+    "appName": "心理咨询师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/心理咨询师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855728021",
+    "oauthClientId": "112342421",
+    "appId": "5765880207855145819"
+  },
+  "optometrist": {
+    "appName": "眼镜验光员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/眼镜验光员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725147",
+    "oauthClientId": "112339547",
+    "appId": "5765880207855163393"
+  },
+
+  "agednursing": {
+    "appName": "养老护理员考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/养老护理员-元服务-profleRelease.p7b",
+    "bundleId": "",
+    "oauthClientId": "",
+    "appId": ""
+  },
+  "yjconstructor": {
+    "appName": "一级建造师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/一级建造师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855718511",
+    "oauthClientId": "112332911",
+    "appId": "5765880207855214805"
+  },
+  "pharmacist": {
+    "appName": "执业药师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/执业药师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855718467",
+    "oauthClientId": "112332867",
+    "appId": "5765880207855214093"
+  },
+  "combinedoctor": {
+    "appName": "中西医结合执业医师聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/中西医结合执业医师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855718553",
+    "oauthClientId": "112332953",
+    "appId": "5765880207855229381"
+  },
+  "leadnursezj": {
+    "appName": "主管护士中级考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/主管护士中级-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855718595",
+    "oauthClientId": "112332995",
+    "appId": "5765880207855195449"
+  },
+  "midwife": {
+    "appName": "助产士考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/助产士-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855724309",
+    "oauthClientId": "112338709",
+    "appId": "5765880207855163701"
+  },
+  "cpaexam": {
+    "appName": "注册会计师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/注册会计师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855724789",
+    "oauthClientId": "112339189",
+    "appId": "5765880207855214329"
+  },
+
+  "zcassessor": {
+    "appName": "资产评估师考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/资产评估师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727713",
+    "oauthClientId": "112342113",
+    "appId": "5765880207855145407"
+  },
+  "jhtk300jhtk": {
+    "appName": "高职单招语文考试聚题库",
+    "mainCert": "lex",
+    "certProfile": "./entry/hwcert/lex/高职单招语文考试聚题库-元服务Release.p7b",
+    "bundleId": "6917559058039696482",
+    "oauthClientId": "6917559058039696482",
+    "appId": ""
+  },
+
+  "yjfireengineer": {
+    "appName": "一级消防工程师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/一级消防工程师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717433",
+    "oauthClientId": "112331833",
+    "appId": "5765880207855162869"
+  },
+  "middleaccount": {
+    "appName": "中级会计考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/中级会计考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717503",
+    "oauthClientId": "112331903",
+    "appId": "5765880207855252671"
+  },
+  "makeupartist": {
+    "appName": "化妆师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/化妆师考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717925",
+    "oauthClientId": "112332325",
+    "appId": ""
+  },
+  "hospitalbasic": {
+    "appName": "医院三基考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/医院三基-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717937",
+    "oauthClientId": "112332337",
+    "appId": "5765880207855153945"
+  },
+  "mevocabulary": {
+    "appName": "单词通速记",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/单词通速记-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717971",
+    "oauthClientId": "112332371",
+    "appId": "5765880207855136877"
+  },
+  "teataster": {
+    "appName": "品茶员考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/品茶员考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717975",
+    "oauthClientId": "112332375",
+    "appId": "5765880207855274827"
+  },
+  "adultszsb": {
+    "appName": "成人高考专升本考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/成人高考专升本-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719539",
+    "oauthClientId": "112333939",
+    "appId": "5765880207855127069"
+  },
+  "adultsgqd": {
+    "appName": "成人高考高起点考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/成人高考高起点-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719545",
+    "oauthClientId": "112333945",
+    "appId": "5765880207855127181"
+  },
+  "appraiser": {
+    "appName": "房地产估价师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/房地产估价师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719553",
+    "oauthClientId": "112333953",
+    "appId": "5765880207855220559"
+  },
+  "ejfireengineer": {
+    "appName": "二级消防工程师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/二级消防工程师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717519",
+    "oauthClientId": "112331919",
+    "appId": "5765880207855202125"
+  },
+  "itmarketer": {
+    "appName": "互联网营销师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/互联网营销师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717531",
+    "oauthClientId": "112331931",
+    "appId": ""
+  },
+  "futures": {
+    "appName": "期货从业资格考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/期货从业资格-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719597",
+    "oauthClientId": "112333997",
+    "appId": "5765880207855243305"
+  },
+  "muyinghl": {
+    "appName": "母婴护理师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/母婴护理师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719609",
+    "oauthClientId": "112334009",
+    "appId": "5765880207855192965"
+  },
+  "skiinstructor": {
+    "appName": "滑雪指导员考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/滑雪指导员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719635",
+    "oauthClientId": "112334035",
+    "appId": "5765880207855270413"
+  },
+  "carbonadim": {
+    "appName": "碳排放管理员考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/碳排放管理员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719643",
+    "oauthClientId": "112334043",
+    "appId": "5765880207855144761"
+  },
+  "touristguide": {
+    "appName": "导游资格证考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/导游资格证考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855718365",
+    "oauthClientId": "112332765",
+    "appId": "5765880207855128123"
+  },
+  "taxagent": {
+    "appName": "税务师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/税务师考试聚题库Release.p7b",
+    "bundleId": "5765880207855719673",
+    "oauthClientId": "112334073",
+    "appId": "5765880207853165287"
+  },
+  "taxaudit": {
+    "appName": "税务稽查考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/税务稽查考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719683",
+    "oauthClientId": "112334083",
+    "appId": "5765880207855243373"
+  },
+  "commonzsb": {
+    "appName": "统招专升本聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/统招专升本-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719689",
+    "oauthClientId": "112334089",
+    "appId": "5765880207855136825"
+  },
+  "beautician": {
+    "appName": "美容师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/美容师考试聚题库-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719701",
+    "oauthClientId": "112334101",
+    "appId": "5765880207855162915"
+  },
+  "selftaught": {
+    "appName": "自考聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/自考聚题库-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719709",
+    "oauthClientId": "112334109",
+    "appId": "5765880207855153997"
+  },
+  "specialwork": {
+    "appName": "特种作业操作证考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/特种作业操作证-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725039",
+    "oauthClientId": "112339439",
+    "appId": "5765880207855126957"
+  },
+  "aromatherapy": {
+    "appName": "芳香疗法师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/芳香疗法师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719719",
+    "oauthClientId": "112334119",
+    "appId": "5765880207855202357"
+  },
+  "nurseexam": {
+    "appName": "护士资格证考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/护士资格证-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725017",
+    "oauthClientId": "112339417",
+    "appId": "5765880207855126887"
+  },
+  "healthy": {
+    "appName": "健康管理师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/健康管理师考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725123",
+    "oauthClientId": "112339523",
+    "appId": "5765880207855212041"
+  },
+  "senioriupapply": {
+    "appName": "单招聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/单招聚题库-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725323",
+    "oauthClientId": "112339723",
+    "appId": ""
+  },
+  "pharmacy": {
+    "appName": "药学士考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/药学士考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725231",
+    "oauthClientId": "112339631",
+    "appId": ""
+  },
+  "librarian": {
+    "appName": "图书资料员聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/图书资料员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725255",
+    "oauthClientId": "112339655",
+    "appId": ""
+  },
+  "recruitpolice": {
+    "appName": "招警考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/招警考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725287",
+    "oauthClientId": "112339687",
+    "appId": ""
+  },
+  "socialhelper": {
+    "appName": "社会救助员考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/社会救助员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719661",
+    "oauthClientId": "112334061",
+    "appId": "5765880207855220657"
+  },
+  "swimming": {
+    "appName": "游泳教练聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/游泳教练-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719617",
+    "oauthClientId": "112334017",
+    "appId": ""
+  },
+  "znbuilding": {
+    "appName": "智能楼宇管理员聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/智能楼宇管理员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719593",
+    "oauthClientId": "112333993",
+    "appId": "5765880207855274867"
+  },
+  "bidder": {
+    "appName": "招标师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/招标师考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719585",
+    "oauthClientId": "112333985",
+    "appId": "5765880207855154177"
+  },
+  "deafaid": {
+    "appName": "助听器验配师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/助听器验配师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717915",
+    "oauthClientId": "112332315",
+    "appId": "5765880207855220621"
+  },
+  "fitcoach": {
+    "appName": "健身教练资格证考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/健身教练资格证-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717899",
+    "oauthClientId": "112332299",
+    "appId": "5765880207855163047"
+  },
+  "insuremanager": {
+    "appName": "保险高管考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/保险高管考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717833",
+    "oauthClientId": "112332233",
+    "appId": "5765880207855211951"
+  },
+  "culinarian": {
+    "appName": "保健调理师聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/保健调理师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717583",
+    "oauthClientId": "112331983",
+    "appId": "5765880207855263673"
+  },
+  "masseur": {
+    "appName": "保健按摩师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/保健按摩师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717561",
+    "oauthClientId": "112331961",
+    "appId": "5765880207855263635"
+  },
+  "primarycost": {
+    "appName": "一级造价工程师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/一级造价工程师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717481",
+    "oauthClientId": "112331881",
+    "appId": "5765880207855202241"
+  },
+  "bookingagent": {
+    "appName": "演出经纪人考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/演出经纪人元服务-profileRelease.p7b",
+    "bundleId": "5765880207855301621",
+    "oauthClientId": "111916021",
+    "appId": "5765880207855106211"
+  },
+  "fireman": {
+    "appName": "消防设施操作员考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/消防设施操作员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855332487",
+    "oauthClientId": "111946887",
+    "appId": "5765880207853163903"
+  },
+  "teaart": {
+    "appName": "茶艺师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/茶艺师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855350037",
+    "oauthClientId": "111964437",
+    "appId": ""
+  },
+  "adultscollege": {
+    "appName": "成人高考聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/成人高考-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855350069",
+    "oauthClientId": "111964469",
+    "appId": ""
+  },
+  "sociology": {
+    "appName": "社会工作者考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/社会工作者-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855350085",
+    "oauthClientId": "111964485",
+    "appId": ""
+  },
+  "beikaotong": {
+    "appName": "备考通",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/备考通-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725051",
+    "oauthClientId": "112339451",
+    "appId": "5765880207855130285"
+  },
+  "zhuantoben": {
+    "appName": "专升本聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/专升本聚题库-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717173",
+    "oauthClientId": "112331573",
+    "appId": "5765880207855135643"
+  },
+  "degreeeng": {
+    "appName": "学位英语",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/学位英语-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855719725",
+    "oauthClientId": "112334125",
+    "appId": "5765880207855136535"
+  },
+  "zjgaokao": {
+    "appName": "职教高考聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/职教高考-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725063",
+    "oauthClientId": "112339463",
+    "appId": "5765880207855136765"
+  },
+  "uavpilot": {
+    "appName": "无人机驾驶员考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/无人机驾驶员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855350105",
+    "oauthClientId": "111964505",
+    "appId": "5765880207855144625"
+  },
+  "patentagent": {
+    "appName": "专利代理师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/专利代理师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725111",
+    "oauthClientId": "112339511",
+    "appId": "5765880207855145305"
+  },
+  "zycrs": {
+    "appName": "中医催乳师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/中医催乳师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727433",
+    "oauthClientId": "112341833",
+    "appId": ""
+  },
+  "zygss": {
+    "appName": "中医刮痧师考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/中医刮痧师考试聚题库Release.p7b",
+    "bundleId": "5765880207855727447",
+    "oauthClientId": "112341847",
+    "appId": ""
+  },
+  "zyzls": {
+    "appName": "中医灸疗师考试",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/中医灸疗师考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727489",
+    "oauthClientId": "112341889",
+    "appId": ""
+  },
+  "chinesecook": {
+    "appName": "中式烹调师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/中式烹调师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727551",
+    "oauthClientId": "112341951",
+    "appId": ""
+  },
+  "bankingzj": {
+    "appName": "中级银行从业人员考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/中级银行从业人员考试聚题库Release.p7b",
+    "bundleId": "5765880207855727683",
+    "oauthClientId": "112342083",
+    "appId": ""
+  },
+  "usedcarassess": {
+    "appName": "二手车评估师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/二手车评估师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727579",
+    "oauthClientId": "112341979",
+    "appId": ""
+  },
+  "cloudcomput": {
+    "appName": "云计算工程技术人员",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/云计算工程技术人员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725219",
+    "oauthClientId": "112339619",
+    "appId": ""
+  },
+  "aitrainer": {
+    "appName": "人工智能训练师考试",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/人工智能训练师考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725215",
+    "oauthClientId": "112339615",
+    "appId": ""
+  },
+  "housingfund": {
+    "appName": "住房公积金专办员",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/住房公积金专办员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717537",
+    "oauthClientId": "112331937",
+    "appId": "5765880207855274031"
+  },
+  "fitcoach": {
+    "appName": "健身教练考试",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/健身教练考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855717899",
+    "oauthClientId": "112332299",
+    "appId": "5765880207855163047"
+  },
+  "childdevelop": {
+    "appName": "儿童发展测评师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/儿童发展测评师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727483",
+    "oauthClientId": "112341883",
+    "appId": ""
+  },
+  "publicsecurity": {
+    "appName": "公安基础知识",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/公安基础知识-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727505",
+    "oauthClientId": "112341905",
+    "appId": ""
+  },
+  "classifiedks": {
+    "appName": "分类考试",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/分类考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725335",
+    "oauthClientId": "112339735",
+    "appId": ""
+  },
+  "laborrelations": {
+    "appName": "劳动关系协调员",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/劳动关系协调员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727541",
+    "oauthClientId": "112341941",
+    "appId": ""
+  },
+  "rescuevehicle": {
+    "appName": "医疗救护员资格证",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/医疗救护员资格证-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727461",
+    "oauthClientId": "112341861",
+    "appId": ""
+  },
+  "hazmat": {
+    "appName": "危险品运输从业资格证",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/危险品运输从业资格证-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727589",
+    "oauthClientId": "112341989",
+    "appId": ""
+  },
+  "fund": {
+    "appName": "基金从业资格",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/基金从业资格-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855718347",
+    "oauthClientId": "112332747",
+    "appId": "5765880207855252755"
+  },
+  "instructor": {
+    "appName": "大学辅导员",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/大学辅导员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725353",
+    "oauthClientId": "112339753",
+    "appId": ""
+  },
+  "marriagezx": {
+    "appName": "婚姻情感咨询师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/婚姻情感咨询师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725201",
+    "oauthClientId": "112339601",
+    "appId": ""
+  },
+  "anguisecond": {
+    "appName": "安规聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/安规聚题库-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725297",
+    "oauthClientId": "112339697",
+    "appId": ""
+  },
+  "transport": {
+    "appName": "客运从业资格证题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/客运从业资格证题库-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727571",
+    "oauthClientId": "112341971",
+    "appId": ""
+  },
+  "correspondsx": {
+    "appName": "对口升学聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/对口升学-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725345",
+    "oauthClientId": "112339745",
+    "appId": ""
+  },
+  "childrentn": {
+    "appName": "小儿推拿保健师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/小儿推拿保健师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855718375",
+    "oauthClientId": "112332775",
+    "appId": "5765880207855144863"
+  },
+  "earlychildhood": {
+    "appName": "幼儿教育指导师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/幼儿教育指导师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725275",
+    "oauthClientId": "112339675",
+    "appId": ""
+  },
+  "veterinarian": {
+    "appName": "执业兽医考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/执业兽医考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725095",
+    "oauthClientId": "112339495",
+    "appId": "5765880207855145237"
+  },
+  "political": {
+    "appName": "政工师考试",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/政工师考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727653",
+    "oauthClientId": "112342053",
+    "appId": ""
+  },
+  "gymboree": {
+    "appName": "早期教育指导师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/早期教育指导师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727415",
+    "oauthClientId": "112341815",
+    "appId": ""
+  },
+  "springcollege": {
+    "appName": "春季高考",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/春季高考-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725309",
+    "oauthClientId": "112339709",
+    "appId": ""
+  },
+  "carmechanic": {
+    "appName": "汽车修理工考试聚题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/汽车修理工考试聚题库-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727627",
+    "oauthClientId": "112342027",
+    "appId": ""
+  },
+  "gassupply": {
+    "appName": "燃气供应服务员",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/燃气供应服务员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725247",
+    "oauthClientId": "112339647",
+    "appId": ""
+  },
+  "ecommerce": {
+    "appName": "电子商务师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/电子商务师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727605",
+    "oauthClientId": "112342005",
+    "appId": ""
+  },
+  "skinmanager": {
+    "appName": "皮肤管理师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/皮肤管理师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725239",
+    "oauthClientId": "112339639",
+    "appId": ""
+  },
+  "distributor": {
+    "appName": "网约配送员",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/网约配送员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727529",
+    "oauthClientId": "112341929",
+    "appId": ""
+  },
+  "hairdresser": {
+    "appName": "美发师考试题库",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/美发师考试题库-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727617",
+    "oauthClientId": "112342017",
+    "appId": ""
+  },
+  "crewfour": {
+    "appName": "船员四小证",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/船员四小证-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727637",
+    "oauthClientId": "112342037",
+    "appId": ""
+  },
+  "nutritionistpc": {
+    "appName": "营养配餐师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/营养配餐师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855725177",
+    "oauthClientId": "112339577",
+    "appId": "5765880207855260891"
+  },
+  "chef": {
+    "appName": "西式面点师",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/西式面点师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727559",
+    "oauthClientId": "112341959",
+    "appId": ""
+  },
+  "archzhiliang": {
+    "appName": "质量员考试",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/质量员考试-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855727663",
+    "oauthClientId": "112342063",
+    "appId": ""
+  },
+  "jyks394jyks": {
+    "appName": "焊工中级焊工聚优考试",
+    "mainCert": "taxagent",
+    "certProfile": "./entry/hwcert/taxagent/焊工中级焊工聚优考试-元服务Release.p7b",
+    "bundleId": "6917559058462102904",
+    "oauthClientId": "6917559058462102904",
+    "appId": ""
+  },
+
+  "coalmine": {
+    "appName": "特种作业煤矿安全作业聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/特种作业煤矿安全作业-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855733429",
+    "oauthClientId": "112347829",
+    "appId": "5765880207855153979"
+  },
+  "allmedia": {
+    "appName": "全媒体运营师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/全媒体运营师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855733521",
+    "oauthClientId": "112347921",
+    "appId": "5765880207855138437"
+  },
+  "announcer": {
+    "appName": "播音主持人考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/播音主持人-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855733535",
+    "oauthClientId": "112347935",
+    "appId": "5765880207855144565"
+  },
+  "archanquan": {
+    "appName": "安全员考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/安全员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855733571",
+    "oauthClientId": "112347971",
+    "appId": "5765880207855144635"
+  },
+  "archshigong": {
+    "appName": "施工员考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/施工员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855733651",
+    "oauthClientId": "112348051",
+    "appId": "5765880207855144683"
+  },
+  "eightarch": {
+    "appName": "建筑八大员考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/建筑八大员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855733723",
+    "oauthClientId": "112348123",
+    "appId": "5765880207855153795"
+  },
+  "threesupports": {
+    "appName": "三支一扶考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/三支一扶元服务-profileRelease.p7b",
+    "bundleId": "5765880207855301641",
+    "oauthClientId": "111916041",
+    "appId": "5765880207855154517"
+  },
+  "agentassist": {
+    "appName": "房地产经纪人协理考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/房地产经纪人协理-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855733833",
+    "oauthClientId": "112348233",
+    "appId": "5765880207853190883"
+  },
+  "middleauditor": {
+    "appName": "中级审计师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/中级审计师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855735615",
+    "oauthClientId": "112350015",
+    "appId": "5765880207855154209"
+  },
+  "economistzj": {
+    "appName": "中级经济师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/中级经济师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743773",
+    "oauthClientId": "112358173",
+    "appId": "5765880207855154385"
+  },
+  "editorreporter": {
+    "appName": "编辑记者考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/编辑记者-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855733787",
+    "oauthClientId": "112348187",
+    "appId": "5765880207855153885"
+  },
+  "trainattendant": {
+    "appName": "乘务员考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/乘务员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855742691",
+    "oauthClientId": "112357091",
+    "appId": "5765880207855202605"
+  },
+  "kitchen": {
+    "appName": "餐厨管理员考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/餐厨管理员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855745529",
+    "oauthClientId": "112359929",
+    "appId": "5765880207855223207"
+  },
+  "junioraccount": {
+    "appName": "初级会计考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/初级会计-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743749",
+    "oauthClientId": "112358149",
+    "appId": "5765880207855222901"
+  },
+  "economistcj": {
+    "appName": "初级经济师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/初级经济师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855744863",
+    "oauthClientId": "112359263",
+    "appId": "5765880207855243117"
+  },
+  "juniorauditor": {
+    "appName": "初级审计师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/初级审计师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855742855",
+    "oauthClientId": "112357255",
+    "appId": "5765880207855204643"
+  },
+  "statisticiancj": {
+    "appName": "初级统计师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/初级统计师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743809",
+    "oauthClientId": "112358209",
+    "appId": "5765880207855223421"
+  },
+  "bankingcj": {
+    "appName": "初级银行从业人员考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/初级银行从业人员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743943",
+    "oauthClientId": "112358343",
+    "appId": "5765880207855229429"
+  },
+  "secretary": {
+    "appName": "董秘资格证考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/董秘资格证-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855734937",
+    "oauthClientId": "112349337",
+    "appId": "5765880207855186253"
+  },
+  "animalepidemic": {
+    "appName": "动物疫情防治员考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/动物疫情防治员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743557",
+    "oauthClientId": "112357957",
+    "appId": "5765880207855220815"
+  },
+  "usedcar": {
+    "appName": "二手车经纪人考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/二手车经纪人-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743901",
+    "oauthClientId": "112358301",
+    "appId": "5765880207855223711"
+  },
+  "court": {
+    "appName": "法院司法辅助人员考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/法院司法辅助人员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855742647",
+    "oauthClientId": "112357047",
+    "appId": "5765880207855202295"
+  },
+  "gaokaozy": {
+    "appName": "高考志愿规划师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/高考志愿规划师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743035",
+    "oauthClientId": "112357435",
+    "appId": "5765880207855204745"
+  },
+  "glmaintenance": {
+    "appName": "公路养护工聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/公路养护工-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855735629",
+    "oauthClientId": "112350029",
+    "appId": "5765880207855186837"
+  },
+  "garbageman": {
+    "appName": "环卫垃圾处理工聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/环卫垃圾处理工-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855744879",
+    "oauthClientId": "112359279",
+    "appId": "5765880207855243359"
+  },
+  "vehiclegcs": {
+    "appName": "机动车检测维修工程师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/机动车检测维修工程师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855734965",
+    "oauthClientId": "112357991",
+    "appId": ""
+  },
+  "vehiclewxs": {
+    "appName": "机动车检测维修士考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/机动车检测维修士-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743591",
+    "oauthClientId": "112357991",
+    "appId": "5765880207855221149"
+  },
+  "gasoperator": {
+    "appName": "加油站操作员聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/加油站操作员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743675",
+    "oauthClientId": "112358075",
+    "appId": "5765880207855221467"
+  },
+
+  "economist": {
+    "appName": "经济师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/经济师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855744851",
+    "oauthClientId": "112359251",
+    "appId": "5765880207855229463"
+  },
+  "oralhealth": {
+    "appName": "口腔健康管理师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/口腔健康管理师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743299",
+    "oauthClientId": "112357699",
+    "appId": "5765880207855204887"
+  },
+  "oralcavity": {
+    "appName": "口腔修复体制作工聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/口腔修复体制作工-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743393",
+    "oauthClientId": "112357793",
+    "appId": "5765880207855205261"
+  },
+  "agedassess": {
+    "appName": "老年人能力评估师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/老年人能力评估师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855734953",
+    "oauthClientId": "112349353",
+    "appId": "5765880207855186415"
+  },
+  "afforest": {
+    "appName": "绿化工考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/绿化工-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855735011",
+    "oauthClientId": "112349411",
+    "appId": "5765880207855186719"
+  },
+  "mybjjsfwry": {
+    "appName": "母婴保健技术服务人员考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/母婴保健技术服务人员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855744955",
+    "oauthClientId": "112359355",
+    "appId": "5765880207855243605"
+  },
+  "auctioneer": {
+    "appName": "拍卖师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/拍卖师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855742671",
+    "oauthClientId": "112357071",
+    "appId": "5765880207855202437"
+  },
+  "teenager": {
+    "appName": "青少年心理成长指导师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/青少年心理成长指导师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855744975",
+    "oauthClientId": "112359375",
+    "appId": "5765880207855244929"
+  },
+
+  "weightcontrol": {
+    "appName": "体重控制管理师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/体重控制管理师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855736635",
+    "oauthClientId": "112351035",
+    "appId": "5765880207855202229"
+  },
+  "chemicals": {
+    "appName": "危险化学品考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/危险化学品-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855734083",
+    "oauthClientId": "112348483",
+    "appId": "5765880207855145915"
+  },
+  "firecrackers": {
+    "appName": "烟花爆竹安全作业聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/烟花爆竹安全作业-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855736591",
+    "oauthClientId": "112350991",
+    "appId": "5765880207855187065"
+  },
+  "metallurgy": {
+    "appName": "冶金煤气作业聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/冶金煤气作业-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743469",
+    "oauthClientId": "112357869",
+    "appId": "5765880207855220653"
+  },
+
+  "expresssate": {
+    "appName": "邮件快件安检员考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/邮件快件安检员-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855745039",
+    "oauthClientId": "112359439",
+    "appId": "5765880207855245763"
+  },
+  "zlstorage": {
+    "appName": "整理收纳师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/整理收纳师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855744993",
+    "oauthClientId": "112359393",
+    "appId": "5765880207855245057"
+  },
+
+  "securities": {
+    "appName": "证券从业资格考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/证券从业资格-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855743313",
+    "oauthClientId": "112357699",
+    "appId": "5765880207855205015"
+  },
+
+  "occupational": {
+    "appName": "职业病诊断医师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/职业病诊断医师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855744937",
+    "oauthClientId": "112359337",
+    "appId": "5765880207855243437"
+  },
+  "refrigeration": {
+    "appName": "制冷与空调作业聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/制冷与空调作业-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855734101",
+    "oauthClientId": "112348501",
+    "appId": "5765880207855184779"
+  },
+  "statisticianzj": {
+    "appName": "中级统计师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/中级统计师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855736615",
+    "oauthClientId": "112351015",
+    "appId": "5765880207855202105"
+  },
+  "zykflls": {
+    "appName": "中医康复理疗师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/中医康复理疗师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855745015",
+    "oauthClientId": "112359415",
+    "appId": "5765880207855245373"
+  },
+  "environment": {
+    "appName": "注册环保工程师考试聚题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/注册环保工程师-元服务-profileRelease.p7b",
+    "bundleId": "5765880207855734917",
+    "oauthClientId": "112349317",
+    "appId": "5765880207855186157"
+  },
+  "htk403htk": {
+    "appName": "大数据工程技术人员理论知识考试恒题库",
+    "mainCert": "agentassist",
+    "certProfile": "./entry/hwcert/agentassist/大数据工程技术人员理论知识考试恒题库-元服务Release.p7b",
+    "bundleId": "6917559058987344065",
+    "oauthClientId": "6917559058987344065",
+    "appId": ""
+  },
+
+  "zzpuce": {
+    "appName": "中职普测",
+    "mainCert": "clearDirt",
+    "certProfile": "./entry/hwcert/clear/中职普测元服务-profileRelease.p7b",
+    "bundleId": "5765880207855715989",
+    "oauthClientId": "112330389",
+    "appId": "5765880207855823797"
+  },
+  "jtk001jtk": {
+    "appName": "成考专升本考试集题库",
+    "mainCert": "clearDirt",
+    "certProfile": "./entry/hwcert/clear/成考专升本考试集题库-元服务Release.p7b",
+    "bundleId": "6917559049856252568",
+    "oauthClientId": "6917559049856252568",
+    "appId": ""
+  },
+
+  "ytk057ytk": {
+    "appName": "监理工程师考试昀题库",
+    "mainCert": "yunshu2",
+    "certProfile": "./entry/hwcert/yunshu2/监理工程师考试昀题库-元服务Release.p7b",
+    "bundleId": "6917559057399892468",
+    "oauthClientId": "6917559057399892468",
+    "appId": ""
+  },
+
+  "btk294btk": {
+    "appName": "自考营养学考试博题库",
+    "mainCert": "bojuCer",
+    "certProfile": "./entry/hwcert/boju/自考营养学考试博题库-元服务Release.p7b",
+    "bundleId": "6917559059386053824",
+    "oauthClientId": "6917559059386053824",
+    "appId": ""
+  }
+}

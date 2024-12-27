@@ -1,0 +1,132 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "whiteColor",
+      "value": "#ffffffff"
+    },
+    {
+      "name": "mainColor",
+      "value": "#ff0080ff"
+    },
+    {
+      "name": "shallowMainColor",
+      "value": "#1f0080ff"
+    },
+    {
+      "name": "shallowTwoMainColor",
+      "value": "#140080ff"
+    },
+    {
+      "name": "shallowThreeMainColor",
+      "value": "#0f0080ff"
+    },
+    {
+      "name": "mainBgColor",
+      "value": "#fff7f8fb"
+    },
+    {
+      "name": "mainDarkColor",
+      "value": "#5c0080ff"
+    },
+    {
+      "name": "blodTextColor",
+      "value": "#ff191B27"
+    },
+    {
+      "name": "subTextColor",
+      "value": "#ff465069"
+    },
+    {
+      "name": "auxiliaryTextColor",
+      "value": "#ff999FB5"
+    },
+    {
+      "name": "toBeActivatedTextColor",
+      "value": "#ffBEC2D1"
+    },
+    {
+      "name": "separatorLineColor",
+      "value": "#ffE7EAF0"
+    },
+    {
+      "name": "ellipticalBackgroundColor",
+      "value": "#1A0080FF"
+    },
+    {
+      "name": "mainGradieColor",
+      "value": "#FF9A98FF"
+    },
+    {
+      "name": "blodGradieColor",
+      "value": "#FF4C5B6F"
+    },
+    {
+      "name": "mainTabColor",
+      "value": "#FF191B27"
+    },
+    {
+      "name": "auxiliaryColor",
+      "value": "#ff999FB5"
+    },
+    {
+      "name": "shallowAuxiliaryColor",
+      "value": "#ff999FB5"
+    },
+    {
+      "name": "gradientButtonStartColor",
+      "value": "#ff0082FF"
+    },
+    {
+      "name": "gradientButtonEngColor",
+      "value": "#ff05C7FF"
+    },
+    {
+      "name": "pageBg",
+      "value": "#fff7f8fb"
+    },
+    {
+      "name": "secPageBg",
+      "value": "#fff5f7fd"
+    },
+    {
+      "name": "hintTextColor",
+      "value": "#ff999999"
+    },
+    {
+      "name": "mainTabSelectColor11",
+      "value": "#ff2A5BEF"
+    },
+    {
+      "name": "mainTabSelectColor",
+      "value": "#191B27"
+    },
+    {
+      "name": "mainTabNormalColor",
+      "value": "#999FB5"
+    },
+    {
+      "name": "mainBottomTabSelectColor",
+      "value": "#ff3296FA"
+    },
+    {
+      "name": "mainBottomTabNormalColor",
+      "value": "#ff5e677e"
+    },
+    {
+      "name": "inputBorderColor",
+      "value": "#ff5e677e"
+    },
+    {
+      "name": "toBeActivatedTextColorPercentTen",
+      "value": "#1ABEC2D1"
+    },
+    {
+      "name": "item_title_font",
+      "value": "#E6000000"
+    }
+  ]
+}

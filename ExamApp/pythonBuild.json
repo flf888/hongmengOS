@@ -1,0 +1,13 @@
+{
+    "APP_TYPE": "ytk387ytk",
+    "bundleId": "6917559399851665043",
+    "oauthClientId": "6917559399851665043",
+    "appId": "",
+    "certName": "昀树",
+    "certPath": "./entry/hwcert/yunshu2/昀树发布证书.cer",
+    "keyAlias": "yunshu",
+    "storeFile": "./entry/hwcert/yunshu2/yunshu.p12",
+    "appName": "护理学 (中级)考试昀题库",
+    "certProfile": "../python-scripts/resources/鸿蒙元服务证书/昀树证书/护理学 (中级)考试昀题库-元服务Release.p7b",
+    "yuan_service_template": 1
+}
