@@ -1,0 +1,401 @@
+[2024-12-31T15:23:14.137] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2024-12-31T15:23:14.354] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: true,
+  daemon: false,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2024-12-31T15:23:14.359] [DEBUG] debug-file - hvigorfile, resolving /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/hvigorfile.ts
+[2024-12-31T15:23:14.856] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: appTasks], plugins: [] } }
+[2024-12-31T15:23:14.930] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2024-12-31T15:23:14.931] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": true
+} in this build.
+[2024-12-31T15:23:14.938] [DEBUG] debug-file - Local scan or download HarmonyOS sdk components toolchains,ets,js,native,previewer
+[2024-12-31T15:23:14.940] [DEBUG] debug-file - Local scan or download hmscore sdk components toolchains,ets,native
+[2024-12-31T15:23:14.942] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2024-12-31T15:23:14.952] [DEBUG] debug-file - Sdk init in 15 ms 
+[2024-12-31T15:23:14.958] [DEBUG] debug-file - Project task initialization takes 6 ms 
+[2024-12-31T15:23:14.960] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2024-12-31T15:23:14.975] [DEBUG] debug-file - hvigorfile, resolving /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/entry/hvigorfile.ts
+[2024-12-31T15:23:14.984] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2024-12-31T15:23:15.009] [DEBUG] debug-file - hvigorfile, resolving /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/library/hvigorfile.ts
+[2024-12-31T15:23:15.013] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=library, buildMode=debug
+[2024-12-31T15:23:15.014] [DEBUG] debug-file - Module library task initialization takes 1 ms 
+[2024-12-31T15:23:15.014] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2024-12-31T15:23:15.016] [DEBUG] debug-file - hvigorfile, resolving /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/library1/hvigorfile.ts
+[2024-12-31T15:23:14.986] [DEBUG] debug-file - Module entry task initialization takes 2 ms 
+[2024-12-31T15:23:15.019] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=library1, buildMode=debug
+[2024-12-31T15:23:15.020] [DEBUG] debug-file - Module library1 task initialization takes 1 ms 
+[2024-12-31T15:23:15.020] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2024-12-31T15:23:15.022] [DEBUG] debug-file - project has submodules:entry,library,library1
+[2024-12-31T15:23:15.031] [DEBUG] debug-file - Configuration task cost before running: 686 ms 
+[2024-12-31T15:23:15.032] [DEBUG] debug-file - Executing task :entry:clean
+[2024-12-31T15:23:15.052] [DEBUG] debug-file - entry : clean cost memory 2.0006484985351562
+[2024-12-31T15:23:15.053] [DEBUG] debug-file - Executing task :library:clean
+[2024-12-31T15:23:15.053] [DEBUG] debug-file - library : clean cost memory 0.2197418212890625
+[2024-12-31T15:23:15.054] [DEBUG] debug-file - Executing task :library1:clean
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - library1 : clean cost memory 0.219451904296875
+[2024-12-31T15:23:15.058] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2024-12-31T15:23:14.138] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: { stacktrace: true },
+  nodeOptions: {}
+}
+[2024-12-31T15:23:14.355] [DEBUG] debug-file - Since current hvigor version 5.13.1 differs from last hvigor version 
+      undefined, delete file-cache.json and task-cache.json.
+[2024-12-31T15:23:14.856] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: appTasks]
+[2024-12-31T15:23:14.930] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2024-12-31T15:23:15.067] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2024-12-31T15:23:14.958] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2024-12-31T15:23:14.960] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2024-12-31T15:23:14.979] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: hapTasks], plugins: [] } }
+[2024-12-31T15:23:14.984] [DEBUG] debug-file - Target 'default' config: {}
+[2024-12-31T15:23:15.011] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: hspTasks], plugins: [] } }
+[2024-12-31T15:23:15.013] [DEBUG] debug-file - Target 'default' config: {}
+[2024-12-31T15:23:15.014] [DEBUG] debug-file - hvigorfile, no custom plugins were found in /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/library/hvigorfile.ts
+[2024-12-31T15:23:15.018] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: hspTasks], plugins: [] } }
+[2024-12-31T15:23:14.986] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2024-12-31T15:23:15.019] [DEBUG] debug-file - Target 'default' config: {}
+[2024-12-31T15:23:15.020] [DEBUG] debug-file - hvigorfile, no custom plugins were found in /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/library1/hvigorfile.ts
+[2024-12-31T15:23:15.022] [DEBUG] debug-file - module:library no need to execute packageHap
+[2024-12-31T15:23:15.032] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2024-12-31T15:23:15.052] [DEBUG] debug-file - runTaskFromQueue task cost before running: 707 ms 
+[2024-12-31T15:23:15.053] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2024-12-31T15:23:15.053] [DEBUG] debug-file - runTaskFromQueue task cost before running: 709 ms 
+[2024-12-31T15:23:15.054] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - runTaskFromQueue task cost before running: 710 ms 
+[2024-12-31T15:23:15.058] [DEBUG] debug-file - Module 'entry' target 'ohosTest' using build option: {
+  "debuggable": true,
+  "name": "default"
+} in this build.
+[2024-12-31T15:23:14.139] [DEBUG] debug-file - env: daemon=false
+[2024-12-31T15:23:14.355] [DEBUG] debug-file - Cache service initialization finished in 1 ms 
+[2024-12-31T15:23:14.930] [DEBUG] debug-file - Product 'default' build option: {}
+[2024-12-31T15:23:15.068] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2024-12-31T15:23:14.958] [DEBUG] debug-file - hvigorfile, no custom plugins were found in /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/hvigorfile.ts
+[2024-12-31T15:23:14.960] [DEBUG] debug-file - Product 'default' build option: {}
+[2024-12-31T15:23:14.979] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: hapTasks]
+[2024-12-31T15:23:14.984] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2024-12-31T15:23:15.011] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: hspTasks]
+[2024-12-31T15:23:15.013] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2024-12-31T15:23:15.014] [DEBUG] debug-file - hvigorfile, resolve finished /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/library/hvigorfile.ts
+[2024-12-31T15:23:15.018] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: hspTasks]
+[2024-12-31T15:23:14.986] [DEBUG] debug-file - hvigorfile, no custom plugins were found in /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/entry/hvigorfile.ts
+[2024-12-31T15:23:15.019] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2024-12-31T15:23:15.020] [DEBUG] debug-file - hvigorfile, resolve finished /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/library1/hvigorfile.ts
+[2024-12-31T15:23:15.022] [DEBUG] debug-file - module:library1 no need to execute packageHap
+[2024-12-31T15:23:15.052] [INFO] debug-file - Finished :entry:clean... after 21 ms 
+[2024-12-31T15:23:15.054] [INFO] debug-file - Finished :library:clean... after 1 ms 
+[2024-12-31T15:23:15.055] [INFO] debug-file - Finished :library1:clean... after 1 ms 
+[2024-12-31T15:23:15.059] [DEBUG] debug-file - Module 'library' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2024-12-31T15:23:14.139] [DEBUG] debug-file - no-daemon, use the parent process.execArgv --max-old-space-size=8192,--expose-gc
+[2024-12-31T15:23:14.930] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2024-12-31T15:23:15.069] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2024-12-31T15:23:14.958] [DEBUG] debug-file - hvigorfile, resolve finished /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/hvigorfile.ts
+[2024-12-31T15:23:14.960] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2024-12-31T15:23:14.984] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2024-12-31T15:23:15.013] [DEBUG] debug-file - Module 'library' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2024-12-31T15:23:14.986] [DEBUG] debug-file - hvigorfile, resolve finished /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/entry/hvigorfile.ts
+[2024-12-31T15:23:15.019] [DEBUG] debug-file - Module 'library1' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2024-12-31T15:23:15.022] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - Executing task ::clean
+[2024-12-31T15:23:15.060] [DEBUG] debug-file - Module 'library' target 'ohosTest' using build option: {
+  "debuggable": true,
+  "name": "default"
+} in this build.
+[2024-12-31T15:23:15.069] [DEBUG] debug-file - Clear worker 0.
+[2024-12-31T15:23:14.984] [DEBUG] debug-file - Module 'entry' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2024-12-31T15:23:15.013] [DEBUG] debug-file - Module 'library' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2024-12-31T15:23:15.019] [DEBUG] debug-file - Module 'library1' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2024-12-31T15:23:15.023] [DEBUG] debug-file - load to the disk finished
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2024-12-31T15:23:15.061] [DEBUG] debug-file - Module 'library1' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2024-12-31T15:23:15.069] [DEBUG] debug-file - Worker 0 has been cleared.
+[2024-12-31T15:23:14.984] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2024-12-31T15:23:15.013] [DEBUG] debug-file - End initialize module-target build option map, moduleName=library
+[2024-12-31T15:23:15.019] [DEBUG] debug-file - End initialize module-target build option map, moduleName=library1
+[2024-12-31T15:23:15.026] [DEBUG] debug-file - Module yuanServer Collected Dependency: 
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - yuanServer : clean cost memory 0.02718353271484375
+[2024-12-31T15:23:15.062] [DEBUG] debug-file - Module 'library1' target 'ohosTest' using build option: {
+  "debuggable": true,
+  "name": "default"
+} in this build.
+[2024-12-31T15:23:15.069] [DEBUG] debug-file - Current idle worker size: 1.
+[2024-12-31T15:23:14.984] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2024-12-31T15:23:15.013] [DEBUG] debug-file - Module 'library' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2024-12-31T15:23:15.019] [DEBUG] debug-file - Module 'library1' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - runTaskFromQueue task cost before running: 710 ms 
+[2024-12-31T15:23:15.026] [DEBUG] debug-file - Module yuanServer's total dependency: 0
+[2024-12-31T15:23:15.063] [DEBUG] debug-file - hvigor start cli arguments:{
+  prop: [ 'product=default' ],
+  sync: true,
+  parallel: true,
+  incremental: true,
+  daemon: false,
+  _: [],
+  analyze: 'normal'
+}
+[2024-12-31T15:23:15.069] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-31T15:23:15.055] [INFO] debug-file - Finished ::clean... after 1 ms 
+[2024-12-31T15:23:15.026] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-12-31T15:23:15.067] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2024-12-31T15:23:15.069] [DEBUG] debug-file - Clear worker 1.
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - Executing task :entry:init
+[2024-12-31T15:23:15.026] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-12-31T15:23:15.067] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2024-12-31T15:23:15.069] [DEBUG] debug-file - Worker 1 has been cleared.
+[2024-12-31T15:23:15.028] [DEBUG] debug-file - Module library Collected Dependency: 
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - entry : init cost memory 0.0100860595703125
+[2024-12-31T15:23:15.069] [DEBUG] debug-file - Current idle worker size: 0.
+[2024-12-31T15:23:15.028] [DEBUG] debug-file - Module library's total dependency: 0
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - runTaskFromQueue task cost before running: 711 ms 
+[2024-12-31T15:23:15.069] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-31T15:23:15.029] [DEBUG] debug-file - Module library1 Collected Dependency: 
+[2024-12-31T15:23:15.055] [INFO] debug-file - Finished :entry:init... after 1 ms 
+[2024-12-31T15:23:15.069] [DEBUG] debug-file - hvigor build process will be closed.
+[2024-12-31T15:23:15.029] [DEBUG] debug-file - Module library1's total dependency: 0
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - Executing task :library:init
+[2024-12-31T15:23:15.072] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2024-12-31T15:23:15.029] [DEBUG] debug-file - Configuration phase cost:673 ms 
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - library : init cost memory 0.008087158203125
+[2024-12-31T15:23:15.073] [DEBUG] debug-file - Current worker pool is terminated.
+[2024-12-31T15:23:15.055] [DEBUG] debug-file - runTaskFromQueue task cost before running: 711 ms 
+[2024-12-31T15:23:15.073] [DEBUG] debug-file - worker[1] exits with exit code 0.
+[2024-12-31T15:23:15.055] [INFO] debug-file - Finished :library:init... after 1 ms 
+[2024-12-31T15:23:15.056] [DEBUG] debug-file - Executing task :library1:init
+[2024-12-31T15:23:15.056] [DEBUG] debug-file - library1 : init cost memory 0.0080108642578125
+[2024-12-31T15:23:15.056] [DEBUG] debug-file - runTaskFromQueue task cost before running: 711 ms 
+[2024-12-31T15:23:15.056] [INFO] debug-file - Finished :library1:init... after 1 ms 
+[2024-12-31T15:23:15.056] [DEBUG] debug-file - Executing task ::init
+[2024-12-31T15:23:15.056] [DEBUG] debug-file - yuanServer : init cost memory 0.0089874267578125
+[2024-12-31T15:23:15.056] [DEBUG] debug-file - runTaskFromQueue task cost before running: 711 ms 
+[2024-12-31T15:23:15.056] [INFO] debug-file - Finished ::init... after 1 ms 
+[2024-12-31T15:24:52.193] [DEBUG] debug-file - java daemon tryConnect success
+[2024-12-31T15:24:52.012] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2024-12-31T15:24:52.023] [DEBUG] debug-file - env: daemon=true
+[2024-12-31T15:24:52.228] [DEBUG] debug-file - hvigor start cli arguments:{
+  prop: [ 'product=default' ],
+  sync: true,
+  parallel: true,
+  incremental: true,
+  daemon: true,
+  _: [ '--analyze=normal' ]
+}
+[2024-12-31T15:24:52.013] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: { stacktrace: true },
+  nodeOptions: {}
+}
+[2024-12-31T15:24:52.238] [DEBUG] debug-file - session manager: set active socket. socketId=ljscgdbLIkH5znYKAAAB
+[2024-12-31T15:24:52.396] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-31T15:24:52.403] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: true,
+  daemon: true,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2024-12-31T15:24:52.403] [DEBUG] debug-file - Cache service initialization finished in 1 ms 
+[2024-12-31T15:24:52.406] [DEBUG] debug-file - hvigorfile, resolving /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/hvigorfile.ts
+[2024-12-31T15:24:52.846] [DEBUG] debug-file - hvigorfile, require result:  { default: { plugins: [] } }
+[2024-12-31T15:24:52.846] [DEBUG] debug-file - hvigorfile, binding system plugins null
+[2024-12-31T15:24:52.919] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2024-12-31T15:24:52.919] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2024-12-31T15:24:52.919] [DEBUG] debug-file - Product 'default' build option: {}
+[2024-12-31T15:24:52.919] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2024-12-31T15:24:52.920] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": true
+} in this build.
+[2024-12-31T15:24:52.927] [DEBUG] debug-file - Local scan or download HarmonyOS sdk components toolchains,ets,js,native,previewer
+[2024-12-31T15:24:52.928] [DEBUG] debug-file - Local scan or download hmscore sdk components toolchains,ets,native
+[2024-12-31T15:24:52.930] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2024-12-31T15:24:52.939] [DEBUG] debug-file - Sdk init in 13 ms 
+[2024-12-31T15:24:52.944] [DEBUG] debug-file - Project task initialization takes 5 ms 
+[2024-12-31T15:24:52.944] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2024-12-31T15:24:52.944] [DEBUG] debug-file - hvigorfile, no custom plugins were found in /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/hvigorfile.ts
+[2024-12-31T15:24:52.944] [DEBUG] debug-file - hvigorfile, resolve finished /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/hvigorfile.ts
+[2024-12-31T15:24:52.947] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2024-12-31T15:24:52.947] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2024-12-31T15:24:52.947] [DEBUG] debug-file - Product 'default' build option: {}
+[2024-12-31T15:24:52.947] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2024-12-31T15:24:52.958] [DEBUG] debug-file - hvigorfile, resolving /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/entry/hvigorfile.ts
+[2024-12-31T15:24:52.964] [DEBUG] debug-file - hvigorfile, require result:  { default: { plugins: [] } }
+[2024-12-31T15:24:52.964] [DEBUG] debug-file - hvigorfile, binding system plugins null
+[2024-12-31T15:24:52.968] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2024-12-31T15:24:52.968] [DEBUG] debug-file - Target 'default' config: {}
+[2024-12-31T15:24:52.968] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2024-12-31T15:24:52.968] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2024-12-31T15:24:52.968] [DEBUG] debug-file - Module 'entry' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2024-12-31T15:24:52.968] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2024-12-31T15:24:52.969] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2024-12-31T15:24:52.970] [DEBUG] debug-file - Module entry task initialization takes 2 ms 
+[2024-12-31T15:24:52.971] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2024-12-31T15:24:52.971] [DEBUG] debug-file - hvigorfile, no custom plugins were found in /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/entry/hvigorfile.ts
+[2024-12-31T15:24:52.971] [DEBUG] debug-file - hvigorfile, resolve finished /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/entry/hvigorfile.ts
+[2024-12-31T15:24:52.994] [DEBUG] debug-file - hvigorfile, resolving /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/library/hvigorfile.ts
+[2024-12-31T15:24:52.996] [DEBUG] debug-file - hvigorfile, require result:  { default: { plugins: [] } }
+[2024-12-31T15:24:52.996] [DEBUG] debug-file - hvigorfile, binding system plugins null
+[2024-12-31T15:24:52.998] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=library, buildMode=debug
+[2024-12-31T15:24:52.998] [DEBUG] debug-file - Target 'default' config: {}
+[2024-12-31T15:24:52.998] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2024-12-31T15:24:52.998] [DEBUG] debug-file - Module 'library' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2024-12-31T15:24:52.998] [DEBUG] debug-file - Module 'library' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2024-12-31T15:24:52.998] [DEBUG] debug-file - End initialize module-target build option map, moduleName=library
+[2024-12-31T15:24:52.998] [DEBUG] debug-file - Module 'library' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2024-12-31T15:24:52.999] [DEBUG] debug-file - Module library task initialization takes 1 ms 
+[2024-12-31T15:24:52.999] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2024-12-31T15:24:52.999] [DEBUG] debug-file - hvigorfile, no custom plugins were found in /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/library/hvigorfile.ts
+[2024-12-31T15:24:52.999] [DEBUG] debug-file - hvigorfile, resolve finished /Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/library/hvigorfile.ts
+[2024-12-31T15:24:53.031] [DEBUG] debug-file - hvigorfile, resolve hvigorfile dependencies in 33 ms 
+[2024-12-31T15:24:53.032] [DEBUG] debug-file - project has submodules:entry,library
+[2024-12-31T15:24:53.032] [DEBUG] debug-file - module:library no need to execute packageHap
+[2024-12-31T15:24:53.033] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2024-12-31T15:24:53.035] [DEBUG] debug-file - load to the disk finished
+[2024-12-31T15:24:53.037] [DEBUG] debug-file - Module yuanServer Collected Dependency: 
+[2024-12-31T15:24:53.037] [DEBUG] debug-file - Module yuanServer's total dependency: 0
+[2024-12-31T15:24:53.038] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-12-31T15:24:53.038] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-12-31T15:24:53.040] [DEBUG] debug-file - Module library Collected Dependency: 
+[2024-12-31T15:24:53.040] [DEBUG] debug-file - Module library's total dependency: 0
+[2024-12-31T15:24:53.040] [DEBUG] debug-file - Configuration phase cost:636 ms 
+[2024-12-31T15:24:53.042] [DEBUG] debug-file - Configuration task cost before running: 644 ms 
+[2024-12-31T15:24:53.042] [DEBUG] debug-file - Executing task :entry:init
+[2024-12-31T15:24:53.042] [DEBUG] debug-file - entry : init cost memory 0.01549530029296875
+[2024-12-31T15:24:53.042] [DEBUG] debug-file - runTaskFromQueue task cost before running: 645 ms 
+[2024-12-31T15:24:53.042] [INFO] debug-file - Finished :entry:init... after 1 ms 
+[2024-12-31T15:24:53.042] [DEBUG] debug-file - Executing task :library:init
+[2024-12-31T15:24:53.042] [DEBUG] debug-file - library : init cost memory 0.01197052001953125
+[2024-12-31T15:24:53.042] [DEBUG] debug-file - runTaskFromQueue task cost before running: 645 ms 
+[2024-12-31T15:24:53.042] [INFO] debug-file - Finished :library:init... after 1 ms 
+[2024-12-31T15:24:53.042] [DEBUG] debug-file - Executing task ::init
+[2024-12-31T15:24:53.042] [DEBUG] debug-file - yuanServer : init cost memory 0.0127410888671875
+[2024-12-31T15:24:53.043] [DEBUG] debug-file - runTaskFromQueue task cost before running: 645 ms 
+[2024-12-31T15:24:53.043] [INFO] debug-file - Finished ::init... after 1 ms 
+[2024-12-31T15:24:53.046] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2024-12-31T15:24:53.047] [DEBUG] debug-file - Module 'entry' target 'ohosTest' using build option: {
+  "debuggable": true,
+  "name": "default"
+} in this build.
+[2024-12-31T15:24:53.048] [DEBUG] debug-file - Module 'library' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2024-12-31T15:24:53.049] [DEBUG] debug-file - Module 'library' target 'ohosTest' using build option: {
+  "debuggable": true,
+  "name": "default"
+} in this build.
+[2024-12-31T15:24:53.050] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2024-12-31T15:24:53.050] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2024-12-31T15:24:53.051] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2024-12-31T15:24:53.052] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2024-12-31T15:24:53.052] [DEBUG] debug-file - Cleanup worker 0.
+[2024-12-31T15:24:53.052] [DEBUG] debug-file - Worker 0 has been cleaned up.
+[2024-12-31T15:24:53.052] [DEBUG] debug-file - Current idle worker size: 1.
+[2024-12-31T15:24:53.052] [DEBUG] debug-file - Current resident worker size: 2.
+[2024-12-31T15:24:53.052] [DEBUG] debug-file - Cleanup worker 1.
+[2024-12-31T15:24:53.052] [DEBUG] debug-file - Worker 1 has been cleaned up.
+[2024-12-31T15:24:53.052] [DEBUG] debug-file - Current idle worker size: 0.
+[2024-12-31T15:24:53.052] [DEBUG] debug-file - Current resident worker size: 2.
+[2024-12-31T15:24:53.053] [DEBUG] debug-file - hvigor build process will be closed.
+[2024-12-31T15:24:53.100] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2024-12-31T15:24:53.100] [DEBUG] debug-file - worker[1] exits with exit code 0.
+[2024-12-31T15:24:53.109] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-12-31T15:24:53.109] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-12-31T15:24:53.109] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-31T15:24:53.109] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.

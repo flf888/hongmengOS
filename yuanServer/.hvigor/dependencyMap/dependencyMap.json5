@@ -1,0 +1,1 @@
+{"basePath":"/Users/xiajia/Documents/jhcode/webcode/hongmengOS/yuanServer/.hvigor/dependencyMap/dependencyMap.json5","rootDependency":"./oh-package.json5","dependencyMap":{"entry":"./entry/oh-package.json5","library":"./library/oh-package.json5"},"modules":[{"name":"entry","srcPath":"../../../entry"},{"name":"library","srcPath":"../../../library"}]}

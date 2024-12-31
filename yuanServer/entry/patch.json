@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.atomicservice.5765880207855211755",
+    "patchVersionCode": 2000249,
+    "versionCode": 1000021
+  },
+  "module": {
+    "name": "entry",
+    "type": "hotreload"
+  }
+}

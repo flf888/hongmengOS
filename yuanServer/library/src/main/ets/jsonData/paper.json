@@ -1,0 +1,4602 @@
+[
+  {
+    "id": 229,
+    "name": "正高",
+    "list": [
+      {
+        "id": 15240,
+        "name": "大数据工程技术人员试题及答案(一)",
+        "score": 100,
+        "question_count": 40,
+        "question_type_data": [
+          {
+            "type_name": "单选题",
+            "question_count": 20,
+            "score_sum": 50,
+            "type": 2
+          },
+          {
+            "type_name": "判断题",
+            "question_count": 10,
+            "score_sum": 25,
+            "type": 1
+          },
+          {
+            "type_name": "多选题",
+            "question_count": 10,
+            "score_sum": 25,
+            "type": 3
+          }
+        ],
+        "questions_list": [
+          {
+            "id": 77646274,
+            "question_id": 13257333,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "智能健康手环的应用开发，体现了（ ）的数据采集技术的应用。",
+            "options": [
+              { "key": "A", "value": "统计报表" },
+              { "key": "B", "value": "网络爬虫" },
+              { "key": "C", "value": "API 接口" },
+              { "key": "D", "value": "传感器" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "智能健康手环的应用开发，体现了传感器的数据采集技术的应用。智能手环内部内置了一颗续航时间可达 10 天的锂电池，一个震动马达和一个动作感应加速计。",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646275,
+            "question_id": 55233539,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "大数据处理技术和传统的数据挖掘技术最大的区别是(　　)。",
+            "options": [
+              { "key": "A", "value": "处理速度快（秒级定律）<br />" },
+              { "key": "B", "value": "算法种类更多<br />" },
+              { "key": "C", "value": "精度更高<br />" },
+              { "key": "D", "value": "更加智能化<br />" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646276,
+            "question_id": 55233305,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在大数据时代，我们需要设立一个不一样的隐私保护模式，这个模式应该更着重于（ ）为其行为承担责任。",
+            "options": [
+              { "key": "A", "value": "数据使用者" },
+              { "key": "B", "value": "数据提供者" },
+              { "key": "C", "value": "个人许可" },
+              { "key": "D", "value": "数据分析者" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646277,
+            "question_id": 55233302,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "大数据公司的多样性表明了（ ）",
+            "options": [
+              { "key": "A", "value": "数据作用的体现" },
+              { "key": "B", "value": "数据价值的转移" },
+              { "key": "C", "value": "数据技术的发展" },
+              { "key": "D", "value": "数据思维的创新" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646278,
+            "question_id": 55233281,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列对大数据的技术特点的描述中错误的是：",
+            "options": [
+              {
+                "key": "A",
+                "value": "总体而言，大数据技术的重要特点是简单与大规模"
+              },
+              {
+                "key": "B",
+                "value": "为了提升大数据处理效能，大数据技术在本质上放弃了一些数据处理的要求"
+              },
+              {
+                "key": "C",
+                "value": "大数据技术能够同时满足一致性、分区容忍性以及可用性要求"
+              },
+              {
+                "key": "D",
+                "value": "大数据技术通常会牺牲一致性要求很高的事务处理(多个操作的组合)，仅提供最简单的读／写来达到超大规模的存储和访问能力"
+              }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646279,
+            "question_id": 55233204,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "金融大数据面对的挑战不包括（）。",
+            "options": [
+              { "key": "A", "value": "如何提高金融数据质量<br />" },
+              {
+                "key": "B",
+                "value": "如何整理分散在多个数据系统中的金融行业数据<br />"
+              },
+              {
+                "key": "C",
+                "value": "金融行业数据来源丰富，如何统一数据格式<br />"
+              },
+              {
+                "key": "D",
+                "value": "如何满足用户数据安全和信息保护方面的要求<br />"
+              }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646280,
+            "question_id": 55232693,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "智慧城市的智慧之源是（）",
+            "options": [
+              { "key": "A", "value": "数字城市" },
+              { "key": "B", "value": "物联网" },
+              { "key": "C", "value": "大数据" },
+              { "key": "D", "value": "云计算" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646281,
+            "question_id": 55240636,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "Hadoop2.x版本中的数据块大小默认是多少？ (　　)",
+            "options": [
+              { "key": "A", "value": "64M<br />" },
+              { "key": "B", "value": "128M<br />" },
+              { "key": "C", "value": "256M<br />" },
+              { "key": "D", "value": "512M<br />" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646282,
+            "question_id": 55240633,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下面哪项是Hadoop的作者？(　　)",
+            "options": [
+              { "key": "A", "value": "Martin<br />" },
+              { "key": "B", "value": "Doug<br />" },
+              { "key": "C", "value": "Mark<br />" },
+              { "key": "D", "value": "Kent<br />" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646283,
+            "question_id": 55232423,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列国家的大数据发展行动中，集中体现“重视基础、首都先行”的国家是（）。",
+            "options": [
+              { "key": "A", "value": "美国" },
+              { "key": "B", "value": "日本" },
+              { "key": "C", "value": "中国" },
+              { "key": "D", "value": "韩国" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646284,
+            "question_id": 55232364,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列关于Storm的描述，有误的是？",
+            "options": [
+              {
+                "key": "A",
+                "value": "Storm将流数据Stream描述成一个有限的Tuple序列"
+              },
+              { "key": "B", "value": "Storm保证每个消息都能完整处理" },
+              {
+                "key": "C",
+                "value": "Storm认为每个Stream都有一个源头，并把这个源头抽象为Spout"
+              },
+              {
+                "key": "D",
+                "value": "Bolt可以执行过滤、函数操作、Join、操作数据库等任何操作"
+              }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646285,
+            "question_id": 55231864,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "HBase只有一个针对行健的索引，如果要访问HBase表中的行，下面哪种方式是不可行的？",
+            "options": [
+              { "key": "A", "value": "通过单个行健访问" },
+              { "key": "B", "value": "通过时间戳访问" },
+              { "key": "C", "value": "通过一个行健的区间来访问" },
+              { "key": "D", "value": "全表扫描" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646286,
+            "question_id": 55231366,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "HDFS采用了什么模型？",
+            "options": [
+              { "key": "A", "value": "分层模型" },
+              { "key": "B", "value": "主从结构模型" },
+              { "key": "C", "value": "管道-过滤器模型" },
+              { "key": "D", "value": "点对点模型" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646287,
+            "question_id": 55231347,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在一个基本的Hadoop集群中，SecondaryNameNode主要负责什么？",
+            "options": [
+              { "key": "A", "value": "帮助NameNode收集文件系统运行的状态信息" },
+              { "key": "B", "value": "负责执行由JobTracker指派的任务" },
+              { "key": "C", "value": "协调数据计算任务" },
+              { "key": "D", "value": "负责协调集群中的数据存储" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646288,
+            "question_id": 55231325,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "大数据产业指什么？",
+            "options": [
+              {
+                "key": "A",
+                "value": "一切与支撑大数据组织管理和价值发现相关的企业经济活动的集合"
+              },
+              {
+                "key": "B",
+                "value": "提供智能交通、智慧医疗、智能物流、智能电网等行业应用的企业"
+              },
+              {
+                "key": "C",
+                "value": "提供数据分享平台、数据分析平台、数据租售平台等服务的企业"
+              },
+              {
+                "key": "D",
+                "value": "提供分布式计算、数据挖掘、统计分析等服务的各类企业"
+              }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646289,
+            "question_id": 55232357,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列关于流计算的说法，哪项是错误的？",
+            "options": [
+              {
+                "key": "A",
+                "value": "实时获取来自不同数据源的海量数据，经过实时分析处理，获得有价值的信息"
+              },
+              {
+                "key": "B",
+                "value": "流计算秉承一个基本理念，即数据的价值随着时间的流逝而降低"
+              },
+              {
+                "key": "C",
+                "value": "对于一个流计算系统来说，它应该支持TB级甚至是PB级的数据规模"
+              },
+              {
+                "key": "D",
+                "value": "流计算只需要保证较低的延迟时间，即只达到秒级别即可处理一切问题"
+              }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646290,
+            "question_id": 55232306,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列哪一项不属于推荐算法？",
+            "options": [
+              { "key": "A", "value": "基于物品和商家的联合协同推荐" },
+              { "key": "B", "value": "基于统计的推荐" },
+              { "key": "C", "value": "专家推荐" },
+              { "key": "D", "value": "基于内容的推荐" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646291,
+            "question_id": 55232139,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下面描述错误的是：（ ）",
+            "options": [
+              {
+                "key": "A",
+                "value": "Storm虽然可以做到低延迟，但是无法实现高吞吐，也不能在故障发生时准确地处理计算状态"
+              },
+              {
+                "key": "B",
+                "value": "Spark Streaming通过采用微批处理方法实现了高吞吐和容错性，但是牺牲了低延迟和实时处理能力"
+              },
+              {
+                "key": "C",
+                "value": "Flink实现了Google Dataflow流计算模型，是一种兼具高吞吐、低延迟和高性能的实时流计算框架，并且同时支持批处理和流处理"
+              },
+              {
+                "key": "D",
+                "value": "Spark Streaming可以实现毫秒级响应，而Flink只能实现秒级响应"
+              }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646292,
+            "question_id": 55232079,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在Spark生态系统组件的应用场景中，下列哪项说法是错误的？",
+            "options": [
+              { "key": "A", "value": "Spark应用在复杂的批量数据处理" },
+              { "key": "B", "value": "SparkSQL是基于历史数据的交互式查询" },
+              { "key": "C", "value": "SparkStreaming是基于历史数据的数据挖掘" },
+              { "key": "D", "value": "GraphX是图结构数据的处理" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646293,
+            "question_id": 55240659,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列选项描述错误的是？(　　)",
+            "options": [
+              {
+                "key": "A",
+                "value": "Hadoop HA即集群中包含Secondary NameNode作为备份节点存在。"
+              },
+              {
+                "key": "B",
+                "value": "ResourceManager负责的是整个Yarn集群资源的监控、分配和管理工作"
+              },
+              {
+                "key": "C",
+                "value": "NodeManager负责定时的向ResourceManager汇报所在节点的资源使用情况以及接收并处理来自ApplicationMaster的启动停止容器( Container)的各种请求。"
+              },
+              {
+                "key": "D",
+                "value": "初次启动Hadoop HA集群时，需要将格式化文件系统后的目录拷贝至另外一台NameNode节点上。"
+              }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60093
+          },
+          {
+            "id": 77646294,
+            "question_id": 55233559,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "通过数据共享机制，可以有效地降低数据采集成本，实现数据资源的重新整合，便捷地获取数据，从而也使得社会运行效率提高。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60094
+          },
+          {
+            "id": 77646295,
+            "question_id": 55233554,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据字典对数据的数据项、数据结构、数据流、数据存储、处理逻辑等进行定义和描述，其目的是对数据流程图中的各个元素做出详细的说明。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60094
+          },
+          {
+            "id": 77646296,
+            "question_id": 55233568,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据安全管理目标是通过数据全生命周期全过程安全管控，真正做到数据“事前可管、事中可控、事后可查”。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60094
+          },
+          {
+            "id": 77646297,
+            "question_id": 55233588,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "hadoop支持数据的随机读写。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60094
+          },
+          {
+            "id": 77646298,
+            "question_id": 55240525,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "Hive使用length()函数可以求出输出的数量。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60094
+          },
+          {
+            "id": 77646299,
+            "question_id": 55240521,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "NodeManager是每个节点上的资源和任务管理器。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60094
+          },
+          {
+            "id": 77646300,
+            "question_id": 55240515,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "NameNode本地磁盘保存了数据块的位置信息。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60094
+          },
+          {
+            "id": 77646301,
+            "question_id": 55233597,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "python中没有异常处理语句，必须使用if eles来解决。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60094
+          },
+          {
+            "id": 77646302,
+            "question_id": 55233595,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "磁盘是集群的最主要瓶颈，是否正确？",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60094
+          },
+          {
+            "id": 77646303,
+            "question_id": 55233592,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "Hadoop 默认调度器策略为 FIFO。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60094
+          },
+          {
+            "id": 77646304,
+            "question_id": 55231886,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "关系数据库已经流行很多年，并且Hadoop已经有了HDFS和MapReduce，为什么需要HBase？",
+            "options": [
+              {
+                "key": "A",
+                "value": "Hadoop可以很好地解决大规模数据的离线批量处理问题，但是，受限于Hadoop MapReduce编程框架的高延迟数据处理机制，使得Hadoop无法满足大规模数据实时处理应用的需求上"
+              },
+              { "key": "B", "value": "HDFS面向批量访问模式，不是随机访问模式" },
+              {
+                "key": "C",
+                "value": "传统的通用关系型数据库无法应对在数据规模剧增时导致的系统扩展性和性能问题"
+              },
+              {
+                "key": "D",
+                "value": "传统关系数据库在数据结构变化时一般需要停机维护；空列浪费存储空间"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60095
+          },
+          {
+            "id": 77646305,
+            "question_id": 55231463,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "HDFS具有较高的容错性，设计了哪些相应的机制检测数据错误和进行自动恢复？",
+            "options": [
+              { "key": "A", "value": "数据源太大" },
+              { "key": "B", "value": "数据节点出错" },
+              { "key": "C", "value": "数据出错" },
+              { "key": "D", "value": "名称节点出错" }
+            ],
+            "score": 2.5,
+            "answer": "BCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60095
+          },
+          {
+            "id": 77646306,
+            "question_id": 55231358,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列哪一项不属于Hadoop的特性？",
+            "options": [
+              { "key": "A", "value": "较低可扩展性" },
+              { "key": "B", "value": "只支持java语言" },
+              { "key": "C", "value": "成本低" },
+              { "key": "D", "value": "运行在Linux平台上" }
+            ],
+            "score": 2.5,
+            "answer": "AB",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60095
+          },
+          {
+            "id": 77646307,
+            "question_id": 55231332,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "第三次信息化浪潮的标志是哪些技术的兴起？",
+            "options": [
+              { "key": "A", "value": "个人计算机" },
+              { "key": "B", "value": "物联网" },
+              { "key": "C", "value": "云计算" },
+              { "key": "D", "value": "大数据" }
+            ],
+            "score": 2.5,
+            "answer": "BCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60095
+          },
+          {
+            "id": 77646308,
+            "question_id": 55231925,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "关系数据库已经无法满足Web2.0的需求，主要表现在以下几个方面？",
+            "options": [
+              { "key": "A", "value": "无法满足海量数据的管理需求" },
+              { "key": "B", "value": "无法满足数据高并发的需求" },
+              { "key": "C", "value": "无法满足高可扩展性和高可用性的需求" },
+              { "key": "D", "value": "使用难度高" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60095
+          },
+          {
+            "id": 77646309,
+            "question_id": 55231948,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "UMP系统架构依赖的哪些开源组件？",
+            "options": [
+              { "key": "A", "value": "Mnesia" },
+              { "key": "B", "value": "LVS" },
+              { "key": "C", "value": "RabbitMQ" },
+              { "key": "D", "value": "ZooKeeper" }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60095
+          },
+          {
+            "id": 77646310,
+            "question_id": 55232347,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列哪些属于大数据应用？",
+            "options": [
+              { "key": "A", "value": "推荐系统：为用户推荐相关商品" },
+              { "key": "B", "value": "物流：基于大数据和物联网技术的智能物流" },
+              {
+                "key": "C",
+                "value": "智能交通：利用交通大数据，实现交通实时监控"
+              },
+              {
+                "key": "D",
+                "value": "汽车：无人驾驶汽车，实时采集车辆各种行驶数据和周围环境"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60095
+          },
+          {
+            "id": 77646311,
+            "question_id": 55232216,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列说法正确的有？",
+            "options": [
+              {
+                "key": "A",
+                "value": "在Pregel中，为了获得更好的性能，“标志位”和输入消息队列是分开保存的"
+              },
+              {
+                "key": "B",
+                "value": "在超步S中，当一个Worker在进行顶点处理时，用于当前超步的消息会被处理"
+              },
+              {
+                "key": "C",
+                "value": "需要两个消息队列用于存放作用于当前超步S的消息和作用于下一个超步S+1的消息"
+              },
+              {
+                "key": "D",
+                "value": "每个Worker上都保存了一个或多个分区的状态信息，当一个Worker发生故障时，它所负责维护的分区的当前状态信息就会丢失"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60095
+          },
+          {
+            "id": 77646312,
+            "question_id": 55232212,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "在Pregel计算框架中，图的保存格式多种多样，具体包括哪些？",
+            "options": [
+              { "key": "A", "value": "文本文件" },
+              { "key": "B", "value": "关系数据库" },
+              { "key": "C", "value": "键值数据库" },
+              { "key": "D", "value": "语音文件" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60095
+          },
+          {
+            "id": 77646313,
+            "question_id": 55231949,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列关于UMP系统架构的描述，哪些是正确的？",
+            "options": [
+              {
+                "key": "A",
+                "value": "信息统计服务器定期将采集到的用户的连接数"
+              },
+              { "key": "B", "value": "Web控制台无法向用户提供系统管理界面" },
+              {
+                "key": "C",
+                "value": "LVS(LinuxVirtualServer)即Linux虚拟服务器"
+              },
+              {
+                "key": "D",
+                "value": "UMP系统借助于LVS来实现集群内部的负载均衡"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ACD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60095
+          }
+        ]
+      },
+      {
+        "id": 15241,
+        "name": "大数据工程技术人员试题及答案(二)",
+        "score": 100,
+        "question_count": 40,
+        "question_type_data": [
+          {
+            "type_name": "单选题",
+            "question_count": 20,
+            "score_sum": 50,
+            "type": 2
+          },
+          {
+            "type_name": "判断题",
+            "question_count": 10,
+            "score_sum": 25,
+            "type": 1
+          },
+          {
+            "type_name": "多选题",
+            "question_count": 10,
+            "score_sum": 25,
+            "type": 3
+          }
+        ],
+        "questions_list": [
+          {
+            "id": 77652321,
+            "question_id": 11019393,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "当前社会中，最为突出的大数据环境是（ ）",
+            "options": [
+              { "key": "A", "value": "互联网" },
+              { "key": "B", "value": "物联网" },
+              { "key": "C", "value": "综合国力" },
+              { "key": "D", "value": "自然资源" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "当前社会中，最为突出的大数据环境是互联网，互联网是我们运行数据的基础。",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652322,
+            "question_id": 55233296,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "大数据的发展，使信息技术变革的重点从关注技术转向关注（ ）",
+            "options": [
+              { "key": "A", "value": "信息" },
+              { "key": "B", "value": "数字" },
+              { "key": "C", "value": "文字" },
+              { "key": "D", "value": "方位" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652323,
+            "question_id": 55233209,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在图书馆寻找想到的书，用到的作者目录属于数据库中的（）。",
+            "options": [
+              { "key": "A", "value": "索引<br />" },
+              { "key": "B", "value": "引用<br />" },
+              { "key": "C", "value": "散列<br />" },
+              { "key": "D", "value": "对应<br />" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652324,
+            "question_id": 55233207,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "哪个不是SQL发行的版本（）。",
+            "options": [
+              { "key": "A", "value": "SQL-88<br />" },
+              { "key": "B", "value": "SQL-92<br />" },
+              { "key": "C", "value": "SQL:1999<br />" },
+              { "key": "D", "value": "SQL:2003<br />" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652325,
+            "question_id": 55233201,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "以下哪项用来排序（）。",
+            "options": [
+              { "key": "A", "value": "ORDER BY<br />" },
+              { "key": "B", "value": "ORDERED BY<br />" },
+              { "key": "C", "value": "GROUP BY<br />" },
+              { "key": "D", "value": "GROUPED BY<br />" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652326,
+            "question_id": 55232833,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "关于Hive和传统关系数据库的对比分析，下面描述错误的是：",
+            "options": [
+              {
+                "key": "A",
+                "value": "Hive一般依赖于分布式文件系统HDFS，而传统数据库则依赖于本地文件系统"
+              },
+              {
+                "key": "B",
+                "value": "传统的关系数据库可以针对多个列构建复杂的索引，Hive不支持索引"
+              },
+              { "key": "C", "value": "Hive和传统关系数据库都支持分区" },
+              {
+                "key": "D",
+                "value": "传统关系数据库很难实现横向扩展，Hive具有很好的水平扩展性"
+              }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652327,
+            "question_id": 55232793,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "Hadoop1.0默认的调度器策略是哪个。",
+            "options": [
+              { "key": "A", "value": "先进先出调度器" },
+              { "key": "B", "value": "计算能力调度器" },
+              { "key": "C", "value": "公平调度器" },
+              { "key": "D", "value": "优先级调度器" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652328,
+            "question_id": 55232700,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "根据不同的业务需求来建立数据模型，抽取最有意义的向量，决定选取哪种（）",
+            "options": [
+              { "key": "A", "value": "数据管理人员" },
+              { "key": "B", "value": "数据分析员" },
+              { "key": "C", "value": "研究科学家" },
+              { "key": "D", "value": "软件开发工程师" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652329,
+            "question_id": 55232358,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列关于数据处理流程，说法有误的是？",
+            "options": [
+              {
+                "key": "A",
+                "value": "在传统的数据处理流程中，存储的数据是旧的"
+              },
+              {
+                "key": "B",
+                "value": "在传统的数据处理流程中，需要用户主动发出查询来获取结果"
+              },
+              {
+                "key": "C",
+                "value": "传统的数据处理流程，需要先采集数据并存储在关系数据库等数据管理系统中"
+              },
+              {
+                "key": "D",
+                "value": "流计算的处理流程一般包含三个阶段：数据实时采集、数据批量计算、实时查询服务"
+              }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652330,
+            "question_id": 55231919,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列关于键值数据库的描述，哪一项是错误的？",
+            "options": [
+              { "key": "A", "value": "扩展性好，灵活性好" },
+              { "key": "B", "value": "大量写操作时性能高" },
+              { "key": "C", "value": "无法存储结构化信息" },
+              { "key": "D", "value": "条件查询效率高" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652331,
+            "question_id": 55231860,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在HBase访问接口中，Pig主要用在哪个场合？",
+            "options": [
+              {
+                "key": "A",
+                "value": "适合Hadoop MapReduce作业并行批处理HBase表数据"
+              },
+              { "key": "B", "value": "适合HBase管理使用" },
+              { "key": "C", "value": "适合其他异构系统在线访问HBase表数据" },
+              { "key": "D", "value": "适合做数据统计" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652332,
+            "question_id": 55231346,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列哪一个不属于Hadoop的大数据层的功能？",
+            "options": [
+              { "key": "A", "value": "数据挖掘" },
+              { "key": "B", "value": "离线分析" },
+              { "key": "C", "value": "实时计算" },
+              { "key": "D", "value": "BI分析" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652333,
+            "question_id": 14455542,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "数据仓库的最终目的是（）。",
+            "options": [
+              { "key": "A", "value": "收集业务需求" },
+              { "key": "B", "value": "建立数据仓库逻辑模型" },
+              { "key": "C", "value": "开发数据仓库的应用分析" },
+              { "key": "D", "value": "为用户和业务部门提供决策支持" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652334,
+            "question_id": 13256412,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "当不知道数据所带标签时，可以使用哪种技术促使带同类标签的数据与带其他标签的数据相分离？( )",
+            "options": [
+              { "key": "A", "value": "分类" },
+              { "key": "B", "value": "聚类" },
+              { "key": "C", "value": "关联分析" },
+              { "key": "D", "value": "隐马尔可夫链" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652335,
+            "question_id": 55231935,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列哪个不属于云计算的优势？",
+            "options": [
+              { "key": "A", "value": "按需服务" },
+              { "key": "B", "value": "随时服务" },
+              { "key": "C", "value": "通用性" },
+              { "key": "D", "value": "价格不菲" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652336,
+            "question_id": 55232271,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列说法错误的是？",
+            "options": [
+              {
+                "key": "A",
+                "value": "大数据魔镜是一款优秀的国产数据分析软件，可以让用户真正理解探索分析数据"
+              },
+              {
+                "key": "B",
+                "value": "Tableau是桌面系统中最简单的商业智能工具软件，是一个用于网页作图、生成互动图形的JavaScript函数库"
+              },
+              {
+                "key": "C",
+                "value": "Google Fusion Tables让一般使用者也可以轻松制作出专业的统计地图"
+              },
+              {
+                "key": "D",
+                "value": "Modest Maps是一个小型、可扩展、交互式的免费库，提供了一套查看卫星地图的API"
+              }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652337,
+            "question_id": 55232201,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在每个超步中，Worker调用顶点上的Compute等线()函数，下列哪个参数是不需要传递？",
+            "options": [
+              { "key": "A", "value": "该顶点的当前值" },
+              { "key": "B", "value": "一个接收到的消息的迭代器" },
+              { "key": "C", "value": "一个出射边的迭代器" },
+              { "key": "D", "value": "一个入射边的迭代器" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652338,
+            "question_id": 55232142,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "以下哪个属于数据流水线应用？",
+            "options": [
+              { "key": "A", "value": "基于规则的报警" },
+              { "key": "B", "value": "实时查询索引构建" },
+              { "key": "C", "value": "移动应用中的产品更新及实验评估分析" },
+              { "key": "D", "value": "费者技术中的实时数据即席分析" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652339,
+            "question_id": 55232075,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列关于Spark的描述，错误的是哪一项？",
+            "options": [
+              {
+                "key": "A",
+                "value": "Spark最初由美国加州伯克利大学（UCBerkeley）的AMP实验室于2009年开发"
+              },
+              {
+                "key": "B",
+                "value": "等线Spark在2014年打破了Hadoop保持的基准排序纪录"
+              },
+              {
+                "key": "C",
+                "value": "等线Spark用十分之一的计算资源，获得了比Hadoop快3倍的速度"
+              },
+              { "key": "D", "value": "Spark运行模式单一" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652340,
+            "question_id": 55240652,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列关于zookeeper描述正确的是：(　　)",
+            "options": [
+              {
+                "key": "A",
+                "value": "无论客户端连接的是哪个Zookeeper服务器，其看到的服务端数据模型都是一致的<br />"
+              },
+              {
+                "key": "B",
+                "value": "从同一个客户端发起的事务请求，最终将会严格按照其发起顺序被应用到zookeeper中<br />"
+              },
+              {
+                "key": "C",
+                "value": "在一个5个节点组成的Zookeeper集群中，如果同时有3台机器宕机，服务不受影响<br />"
+              },
+              {
+                "key": "D",
+                "value": "如果客户端连接到Zookeeper集群中的那台机器突然宕机，客户端会自动切换连接到集群其他机器<br />"
+              }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60096
+          },
+          {
+            "id": 77652341,
+            "question_id": 55233556,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据库一般分关系型数据库和非关系型数据库。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60097
+          },
+          {
+            "id": 77652342,
+            "question_id": 55233563,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "聚类挖掘技术要求同类数据间内容相似度尽可能小，不同类数据间内容相似度尽可能大。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60097
+          },
+          {
+            "id": 77652343,
+            "question_id": 55240533,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "在整个数据传输的过程中，Flume将流动的数据封装到一个event（事件）中，它是Flume内部数据传输的基本单元。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60097
+          },
+          {
+            "id": 77652344,
+            "question_id": 55240522,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "使用get命令可以将HDFS文件系统下载到本地。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60097
+          },
+          {
+            "id": 77652345,
+            "question_id": 55240517,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "分区数量是ReduceTask的数量。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60097
+          },
+          {
+            "id": 77652346,
+            "question_id": 55240510,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "启动Hadoop集群服务之前需要格式化文件系统。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60097
+          },
+          {
+            "id": 77652347,
+            "question_id": 55240507,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "Hadoop是由Java语言开发的。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60097
+          },
+          {
+            "id": 77652348,
+            "question_id": 55233599,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "把句子拆分成一个个词语的过程被称为分词。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60097
+          },
+          {
+            "id": 77652349,
+            "question_id": 55233575,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "从经济社会视角来看，大数据的重点在于“数据量大”。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60097
+          },
+          {
+            "id": 77652350,
+            "question_id": 55233569,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "在数据管理的组织架构中，第三层的各业务部门只具有数据提供权，不具有数据使用权。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60097
+          },
+          {
+            "id": 77652351,
+            "question_id": 55233284,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "Hadoop是当前大数据平台的事实标准，下列对Hadoop的描述中正确的是：（）",
+            "options": [
+              {
+                "key": "A",
+                "value": "Hadoop是一个由Apache基金会开发的分布式系统开源架构"
+              },
+              {
+                "key": "B",
+                "value": "Hadoop的初始设计思路来源于Google发布的学术论文"
+              },
+              {
+                "key": "C",
+                "value": "Hadoop在当前衍生出一系列优秀的开源项目，包括Hbase、Hive、Pig等"
+              },
+              {
+                "key": "D",
+                "value": "Hadoop的两个核心部分是HDFS(HbaseDistributedFileSystem)和MapReduce计算框架"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60098
+          },
+          {
+            "id": 77652352,
+            "question_id": 55232843,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "Impala主要由哪几个部分组成:( )",
+            "options": [
+              { "key": "A", "value": "Impalad" },
+              { "key": "B", "value": "StateStore" },
+              { "key": "C", "value": "CLI" },
+              { "key": "D", "value": "Hive" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60098
+          },
+          {
+            "id": 77652353,
+            "question_id": 55231900,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列关于HLog工作原理的描述，哪些是正确的？",
+            "options": [
+              {
+                "key": "A",
+                "value": "分布式环境必须要考虑系统出错。HBase采用HLog保证"
+              },
+              {
+                "key": "B",
+                "value": "HBase系统为每个Region服务器配置了一个HLog文件"
+              },
+              {
+                "key": "C",
+                "value": "Zookeeper会实时监测每个Region服务器的状态"
+              },
+              {
+                "key": "D",
+                "value": "Master首先会处理该故障Region服务器上面遗留的HLog文件"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60098
+          },
+          {
+            "id": 77652354,
+            "question_id": 55231459,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "HDFS的命名空间包含什么？",
+            "options": [
+              { "key": "A", "value": "磁盘" },
+              { "key": "B", "value": "文件" },
+              { "key": "C", "value": "块" },
+              { "key": "D", "value": "目录" }
+            ],
+            "score": 2.5,
+            "answer": "BCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60098
+          },
+          {
+            "id": 77652355,
+            "question_id": 55231337,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "云计算关键技术包括什么？",
+            "options": [
+              { "key": "A", "value": "分布式存储" },
+              { "key": "B", "value": "虚拟化" },
+              { "key": "C", "value": "分布式计算" },
+              { "key": "D", "value": "多租户" }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60098
+          },
+          {
+            "id": 77652356,
+            "question_id": 55231946,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列关于云数据库的描述，哪些是正确的？",
+            "options": [
+              { "key": "A", "value": "Amazon是云数据库市场的先行者" },
+              {
+                "key": "B",
+                "value": "GoogleCloudSQL是谷歌公司推出的基于MySQL的云数据库"
+              },
+              {
+                "key": "C",
+                "value": "从数据模型的角度来说，云数据库并非一种全新的数据库技术"
+              },
+              { "key": "D", "value": "云数据库并没有专属于自己的数据模型" }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60098
+          },
+          {
+            "id": 77652357,
+            "question_id": 55232208,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "针对大型图（比如社交网络和网络图）的计算问题，哪些说法是正确的？",
+            "options": [
+              {
+                "key": "A",
+                "value": "为特定的图应用定制相应的分布式实现：通用性不好"
+              },
+              {
+                "key": "B",
+                "value": "基于现有的分布式计算平台进行图计算：在性能和易用性方面往往无法达到最优"
+              },
+              {
+                "key": "C",
+                "value": "使用单机的图算法库，但是，在可以解决的问题的规模方面具有很大的局限性"
+              },
+              {
+                "key": "D",
+                "value": "使用已有的并行图计算系统，但是，对大规模分布式系统非常重要的一些方面（比如容错），无法提供较好的支持"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60098
+          },
+          {
+            "id": 77652358,
+            "question_id": 55232158,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "Flink核心组件栈包括：（）",
+            "options": [
+              { "key": "A", "value": "物理部署层" },
+              { "key": "B", "value": "算法库层" },
+              { "key": "C", "value": "Runtime核心层" },
+              { "key": "D", "value": "API&Libraries层" }
+            ],
+            "score": 2.5,
+            "answer": "ACD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60098
+          },
+          {
+            "id": 77652359,
+            "question_id": 55232110,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "与HadoopMapReduce计算框架相比，Spark所采用的Executor具有哪些优点？",
+            "options": [
+              {
+                "key": "A",
+                "value": "利用多线程来执行具体的任务，减少任务的启动开销"
+              },
+              {
+                "key": "B",
+                "value": "Executor中有一个BlockManager存储模块，有效减少IO开销"
+              },
+              { "key": "C", "value": "提供了一种高度受限的共享内存模型" },
+              { "key": "D", "value": "不同场景之间输入输出数据能做到无缝共享" }
+            ],
+            "score": 2.5,
+            "answer": "AB",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60098
+          },
+          {
+            "id": 77652360,
+            "question_id": 55231947,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "UMP系统架构设计遵循了以下哪些原则？",
+            "options": [
+              {
+                "key": "A",
+                "value": "保持单一的系统对外入口，并且为系统内部维护单一的资源池"
+              },
+              { "key": "B", "value": "消除单点故障，保证服务的高可用性" },
+              {
+                "key": "C",
+                "value": "保证系统具有良好的可伸缩，能够动态地增加、删减计算与存储节点"
+              },
+              { "key": "D", "value": "保证分配给用户的资源也是弹性可伸缩的" }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60098
+          }
+        ]
+      },
+      {
+        "id": 15242,
+        "name": "大数据工程技术人员试题及答案(三)",
+        "score": 100,
+        "question_count": 40,
+        "question_type_data": [
+          {
+            "type_name": "单选题",
+            "question_count": 0,
+            "score_sum": 0,
+            "type": 2
+          },
+          {
+            "type_name": "判断题",
+            "question_count": 0,
+            "score_sum": 0,
+            "type": 1
+          },
+          {
+            "type_name": "多选题",
+            "question_count": 0,
+            "score_sum": 0,
+            "type": 3
+          }
+        ],
+        "questions_list": [
+          {
+            "id": 77645245,
+            "question_id": 55233550,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "一切事物及事物运动的状态，不仅销售数据、价格这些客观标准可以形成大数据，甚至连顾客情绪（如色彩、空间的感知等）都可以测得，这体现了大数据思维维度中的(　　)",
+            "options": [
+              { "key": "A", "value": "定量思维<br />" },
+              { "key": "B", "value": "相关思维<br />" },
+              { "key": "C", "value": "因果思维<br />" },
+              { "key": "D", "value": "实验思维<br />" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645246,
+            "question_id": 55233546,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "大数据的4V特征中的Velocity是指(　　)。",
+            "options": [
+              { "key": "A", "value": "价值密度低<br />" },
+              { "key": "B", "value": "处理速度快<br />" },
+              { "key": "C", "value": "数据类型繁多<br />" },
+              { "key": "D", "value": "数据体量巨大<br />" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645247,
+            "question_id": 55233303,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "以下哪种说法是错误的（ ）",
+            "options": [
+              {
+                "key": "A",
+                "value": "将罪犯的定罪权放在数据手中，借以表达对数据和分析结果的崇尚，这实际上是一种滥用。"
+              },
+              {
+                "key": "B",
+                "value": "随着数据量和种类的增多，大数据促进了数据内容的交叉检验，匿名化的数据不会威胁到任何人的隐私。"
+              },
+              {
+                "key": "C",
+                "value": "采集个人数据的工具就隐藏在我们日常生活所必备的工具当中，比如网页和智能手机应用程序。"
+              },
+              {
+                "key": "D",
+                "value": "预测与惩罚，不是因为所做，而是因为将做。"
+              }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645248,
+            "question_id": 55233295,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "大数据的简单算法与小数据的复杂算法相比（ ）。",
+            "options": [
+              { "key": "A", "value": "更有效" },
+              { "key": "B", "value": "相当" },
+              { "key": "C", "value": "不具备可比性" },
+              { "key": "D", "value": "无效" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "大数据的简单算法比小数据的复杂算法更有效。",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645249,
+            "question_id": 55233294,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "采样分析的精确性随着采样随机性的增加而（ ），但与样本数量的增加关系不大。",
+            "options": [
+              { "key": "A", "value": "降低" },
+              { "key": "B", "value": "不变" },
+              { "key": "C", "value": "提高" },
+              { "key": "D", "value": "无关" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645250,
+            "question_id": 55233277,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在进行选择查询时，关于文件扫描方法的描述不正确的是",
+            "options": [
+              { "key": "A", "value": "其本质是线性搜索<br />" },
+              { "key": "B", "value": "可以进行二进制搜索<br />" },
+              { "key": "C", "value": "需要扫描每个文件块并测试所有记录<br />" },
+              {
+                "key": "D",
+                "value": "如果选择位于关键属性上，则可以停止查找记录<br />"
+              }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645251,
+            "question_id": 55240661,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "Hive查询语言和SQL的一个不同之处在于(　　)操作",
+            "options": [
+              { "key": "A", "value": "Group<br />" },
+              { "key": "B", "value": "Join<br />" },
+              { "key": "C", "value": "Partition<br />" },
+              { "key": "D", "value": "Union<br />" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645252,
+            "question_id": 55240653,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "HBase在新建表的时候必须指定表名和(　　)，不需要指定列，所有的列在后续添加数据的时候动态添加。",
+            "options": [
+              { "key": "A", "value": "行<br />" },
+              { "key": "B", "value": "单元格<br />" },
+              { "key": "C", "value": "时间戳<br />" },
+              { "key": "D", "value": "列族<br />" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645253,
+            "question_id": 55233274,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "数据库可以被建模成",
+            "options": [
+              { "key": "A", "value": "实体<br />" },
+              { "key": "B", "value": "实体间的关系<br />" },
+              { "key": "C", "value": "以上两者<br />" },
+              { "key": "D", "value": "以上都不是<br />" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645254,
+            "question_id": 55233271,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "MySQL中，建立数据库用（）。",
+            "options": [
+              { "key": "A", "value": "CREATE TABLE<br />" },
+              { "key": "B", "value": "CREATE TRIGGER<br />" },
+              { "key": "C", "value": "CREATE INDEX<br />" },
+              { "key": "D", "value": "CREATE DATABASE<br />" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645255,
+            "question_id": 55231941,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下面哪一项不是云数据库的特性？",
+            "options": [
+              { "key": "A", "value": "动态可扩展" },
+              { "key": "B", "value": "高成本" },
+              { "key": "C", "value": "易用性" },
+              { "key": "D", "value": "大规模并行处理" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645256,
+            "question_id": 55231863,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下面关于主服务器Master主要负责表和Region的管理工作的描述，哪个是错误的？",
+            "options": [
+              {
+                "key": "A",
+                "value": "在Region分裂或合并后，负责重新调整Region的分布"
+              },
+              {
+                "key": "B",
+                "value": "对发生故障失效的Region服务器上的Region进行迁移"
+              },
+              {
+                "key": "C",
+                "value": "管理用户对表的增加、删除、修改、查询等操作"
+              },
+              { "key": "D", "value": "不支持不同Region服务器之间的负载均衡" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645257,
+            "question_id": 55231368,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列关于HDFS的描述，哪个不正确？",
+            "options": [
+              {
+                "key": "A",
+                "value": "HDFS还采用了相应的数据存放、数据读取和数据复制策略，来提升系统整体读写响应性能"
+              },
+              { "key": "B", "value": "HDFS采用了主从（Master/Slave）结构模型" },
+              {
+                "key": "C",
+                "value": "HDFS采用了冗余数据存储，增强了数据可靠性"
+              },
+              {
+                "key": "D",
+                "value": "HDFS采用块的概念，使得系统的设计变得更加复杂"
+              }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645258,
+            "question_id": 13255778,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "某超市研究销售纪录数据后发现，买啤酒的人很大概率也会购买尿布，这种属于数据挖掘的哪类问题？( )",
+            "options": [
+              { "key": "A", "value": "关联规则发现" },
+              { "key": "B", "value": "聚类" },
+              { "key": "C", "value": "分类" },
+              { "key": "D", "value": "自然语言处理" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645259,
+            "question_id": 55232081,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列关于RDD说法，描述有误的是？",
+            "options": [
+              {
+                "key": "A",
+                "value": "一个RDD就是一个分布式对象集合，本质上是一个只读的分区记录集合"
+              },
+              {
+                "key": "B",
+                "value": "每个RDD可分成多个分区，每个分区就是一个数据集片段"
+              },
+              { "key": "C", "value": "RDD是可以直接修改的" },
+              { "key": "D", "value": "RDD提供了一种高度受限的共享内存模型" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645260,
+            "question_id": 55233220,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "实体集参与关系集的方式：（）。",
+            "options": [
+              { "key": "A", "value": "完全参与<br />" },
+              { "key": "B", "value": "部分参与<br />" },
+              { "key": "C", "value": "以上均有可能<br />" },
+              { "key": "D", "value": "以上均不是<br />" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645261,
+            "question_id": 55233181,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "哪一个不是修改数据库架构的授权形式之一（）。",
+            "options": [
+              { "key": "A", "value": "index<br />" },
+              { "key": "B", "value": "drop<br />" },
+              { "key": "C", "value": "erase<br />" },
+              { "key": "D", "value": "resources<br />" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "应该是index drop resources alteration",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645262,
+            "question_id": 55232825,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下面哪个不可能是Hive的执行引擎：",
+            "options": [
+              { "key": "A", "value": "MapReduce" },
+              { "key": "B", "value": "Tez" },
+              { "key": "C", "value": "Storm" },
+              { "key": "D", "value": "Spark" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645263,
+            "question_id": 55232706,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列国家的大数据发展行动中，支持原则先行、谨慎发展的国家（）",
+            "options": [
+              { "key": "A", "value": "英国" },
+              { "key": "B", "value": "韩国" },
+              { "key": "C", "value": "印度" },
+              { "key": "D", "value": "澳大利亚" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645264,
+            "question_id": 55232425,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "大数据时代，数据使用的关键是(　　)",
+            "options": [
+              { "key": "A", "value": "数据收集<br />" },
+              { "key": "B", "value": "数据存储<br />" },
+              { "key": "C", "value": "数据分析<br />" },
+              { "key": "D", "value": "数据再利用<br />" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60099
+          },
+          {
+            "id": 77645265,
+            "question_id": 12730872,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "在噪声数据中，波动数据比离群点数据偏离整体水平更大。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60100
+          },
+          {
+            "id": 77645266,
+            "question_id": 55233553,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "保障数据安全可以保护核心数据资产，防止来自外部的攻击，造成数据泄密",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60100
+          },
+          {
+            "id": 77645267,
+            "question_id": 55233557,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据治理规则中规则编码不是规则的唯一标识。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60100
+          },
+          {
+            "id": 77645268,
+            "question_id": 55233561,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据挖掘就是从数据中发现潜在的规则，完成数据的整合，发挥数据的最大价值。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60100
+          },
+          {
+            "id": 77645269,
+            "question_id": 55240520,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "Zookeeper集群宕机数超过集群数一半，则Zookeeper服务失效。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60100
+          },
+          {
+            "id": 77645270,
+            "question_id": 55240514,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "NameNode负责管理元数据，客户端每次读写请求时，都会从磁盘中读取或写入元数据信息并反馈给客户端。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60100
+          },
+          {
+            "id": 77645271,
+            "question_id": 55240512,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "配置Hadoop集群只需要修改core-site.xml配置文件就可以。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60100
+          },
+          {
+            "id": 77645272,
+            "question_id": 55233582,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "python中定义函数不用声明数据类型。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60100
+          },
+          {
+            "id": 77645273,
+            "question_id": 55233566,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据运营管理平台提供的服务能力有数据资源共享服务、数据资源治理服务、数据资源查询服务及数据资源在线监测服务四大能力。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60100
+          },
+          {
+            "id": 77645274,
+            "question_id": 55233564,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据中台定位于为各专业、各单位提供数据共享和分析应用服务",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60100
+          },
+          {
+            "id": 77645275,
+            "question_id": 55233287,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "Hadoop当前衍生了众多优秀的开源项目，下列对其主要开源项目的描述中正确的是：（）",
+            "options": [
+              {
+                "key": "A",
+                "value": "HBase是建立在HDFS之上的可靠的、可扩展的分布式数据集库，是一个高可靠性、高性能、面向列(簇)、可伸缩的分布式存储系统"
+              },
+              {
+                "key": "B",
+                "value": "Zookeeper是一个针对大型分布式系统的可靠协调系统，主要提供配置服务、名字服务、分布式服务、组服务等功能"
+              },
+              {
+                "key": "C",
+                "value": "Hive是一个基于Hadoop的数据仓库平台，它提供了很多数据仓库中使用的工具和方法"
+              },
+              {
+                "key": "D",
+                "value": "HadoopCommon是Hadoop一系列分布式文件系统通用的I/O组件和接口，包括序列化、JavaRPC和持久化数据结构等"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60101
+          },
+          {
+            "id": 77645276,
+            "question_id": 55231460,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列对于客服端的描述，哪些是正确的？",
+            "options": [
+              {
+                "key": "A",
+                "value": "客户端是用户操作HDFS最常用的方式，HDFS在部署时都提供了客户端"
+              },
+              {
+                "key": "B",
+                "value": "HDFS客户端是一个库，暴露了HDFS文件系统接口"
+              },
+              { "key": "C", "value": "严格来说，客户端并不算是HDFS的一部分" },
+              {
+                "key": "D",
+                "value": "客户端可以支持打开、读取、写入等常见的操作"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60101
+          },
+          {
+            "id": 77645277,
+            "question_id": 55231457,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "在HDFS中，名称节点（NameNode）主要保存了哪些核心的数据结构？",
+            "options": [
+              { "key": "A", "value": "FsImage" },
+              { "key": "B", "value": "DN8" },
+              { "key": "C", "value": "Block" },
+              { "key": "D", "value": "EditLog" }
+            ],
+            "score": 2.5,
+            "answer": "AD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60101
+          },
+          {
+            "id": 77645278,
+            "question_id": 55231339,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "物联网主要由下列哪些部分组成的？",
+            "options": [
+              { "key": "A", "value": "应用层" },
+              { "key": "B", "value": "处理层" },
+              { "key": "C", "value": "感知层" },
+              { "key": "D", "value": "网络层" }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60101
+          },
+          {
+            "id": 77645279,
+            "question_id": 55231336,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "大数据的两个核心技术是什么？",
+            "options": [
+              { "key": "A", "value": "分布式存储" },
+              { "key": "B", "value": "分布式应用" },
+              { "key": "C", "value": "分布式处理" },
+              { "key": "D", "value": "集中式存储" }
+            ],
+            "score": 2.5,
+            "answer": "AC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60101
+          },
+          {
+            "id": 77645280,
+            "question_id": 55232156,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "Flink常见的应用场景包括：（）",
+            "options": [
+              { "key": "A", "value": "事件驱动型应用" },
+              { "key": "B", "value": "数据分析应用" },
+              { "key": "C", "value": "数据流水线应用" },
+              { "key": "D", "value": "正反馈应用" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60101
+          },
+          {
+            "id": 77645281,
+            "question_id": 55232848,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "Hadoop生态系统中Hive与其他部分的关系的描述正确的是：（ ）",
+            "options": [
+              {
+                "key": "A",
+                "value": "HDFS作为高可靠的底层存储，用来存储Hive的海量数据"
+              },
+              {
+                "key": "B",
+                "value": "MapReduce对这些海量数据进行批处理，实现Hive的高性能计算"
+              },
+              {
+                "key": "C",
+                "value": "当采用MapRedue作为Hive的执行引擎时，用HiveQL语句编写的处理逻辑，最终都要转化为MapReduce任务来运行"
+              },
+              {
+                "key": "D",
+                "value": "HBase与Hive的功能是互补的，它实现了Hive不能提供的功能"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60101
+          },
+          {
+            "id": 77645282,
+            "question_id": 55232847,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "传统数据仓库面临哪些挑战：（ ）",
+            "options": [
+              { "key": "A", "value": "无法满足快速增长的海量数据存储需求" },
+              { "key": "B", "value": "无法有效处理不同类型的数据" },
+              { "key": "C", "value": "具有很强的扩展性" },
+              { "key": "D", "value": "计算和处理能力不足" }
+            ],
+            "score": 2.5,
+            "answer": "ABD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60101
+          },
+          {
+            "id": 77645283,
+            "question_id": 55232355,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "实现UserCF算法的关键步骤是计算用户与用户之间的兴趣相似度，下列哪些是属于计算相似度的算法？",
+            "options": [
+              { "key": "A", "value": "泊松相关系数" },
+              { "key": "B", "value": "余弦相似度" },
+              { "key": "C", "value": "调整余弦相似度" },
+              { "key": "D", "value": "调整正弦相似度" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60101
+          },
+          {
+            "id": 77645284,
+            "question_id": 55240736,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "配置Hadoop集群时，下列哪个Hadoop配置文件需要进行修改？(　　)",
+            "options": [
+              { "key": "A", "value": "hadoop-env.sh<br />" },
+              { "key": "B", "value": "profile<br />" },
+              { "key": "C", "value": "core-site.xml<br />" },
+              { "key": "D", "value": "ifcfg-eth0<br />" }
+            ],
+            "score": 2.5,
+            "answer": "AC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60101
+          }
+        ]
+      },
+      {
+        "id": 15243,
+        "name": "大数据工程技术人员试题及答案(四)",
+        "score": 100,
+        "question_count": 40,
+        "question_type_data": [
+          {
+            "type_name": "单选题",
+            "question_count": 0,
+            "score_sum": 0,
+            "type": 2
+          },
+          {
+            "type_name": "判断题",
+            "question_count": 0,
+            "score_sum": 0,
+            "type": 1
+          },
+          {
+            "type_name": "多选题",
+            "question_count": 0,
+            "score_sum": 0,
+            "type": 3
+          }
+        ],
+        "questions_list": [
+          {
+            "id": 77671258,
+            "question_id": 55233300,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在大数据时代，下列说法正确的是（ ）。",
+            "options": [
+              { "key": "A", "value": "收集数据很简单" },
+              { "key": "B", "value": "数据是最核心的部分" },
+              { "key": "C", "value": "对数据的分析技术和技能是最重要的" },
+              {
+                "key": "D",
+                "value": "数据非常重要，一定要很好的保护起来，防止泄露"
+              }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671259,
+            "question_id": 55233299,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "关于数据估值，下列说法错误的是（ ）",
+            "options": [
+              {
+                "key": "A",
+                "value": "随着数据价值被重视，公司所持有和使用的数据也渐渐纳入了无形资产的范畴；"
+              },
+              {
+                "key": "B",
+                "value": "无论是向公众开放还是将其锁在公司的保险库中，数据都是有价值的；"
+              },
+              {
+                "key": "C",
+                "value": "数据的价值可以通过授权的第三方使用来实现"
+              },
+              {
+                "key": "D",
+                "value": "目前可以通过数据估值模型来准确的评估数据的价值评估"
+              }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671260,
+            "question_id": 55233208,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "关系设计中，如果采用更大的模式，则（）。",
+            "options": [
+              { "key": "A", "value": "一定会导致信息冗余<br />" },
+              { "key": "B", "value": "可能会导致信息冗余<br />" },
+              { "key": "C", "value": "增强数据一致性<br />" },
+              { "key": "D", "value": "增强数据完整性<br />" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671261,
+            "question_id": 55233194,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "事务需要面对的问题是（）。",
+            "options": [
+              { "key": "A", "value": "计算机出现故障<br />" },
+              { "key": "B", "value": "事务本身失败<br />" },
+              { "key": "C", "value": "多个事务并行<br />" },
+              { "key": "D", "value": "以上都是<br />" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671262,
+            "question_id": 55233193,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "寻找最佳连接顺序时，使用动态规划储存计算结果并将其重用，其优化的时间复杂度是（）。",
+            "options": [
+              { "key": "A", "value": "线性时间<br />" },
+              { "key": "B", "value": "多项式时间<br />" },
+              { "key": "C", "value": "指数时间<br />" },
+              { "key": "D", "value": "阶乘时间<br />" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671263,
+            "question_id": 55240662,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "Hive最重视的性能是可测量性.延展性.(　　)和对于输入格式的宽松匹配性",
+            "options": [
+              { "key": "A", "value": "较低恢复性<br />" },
+              { "key": "B", "value": "容错性<br />" },
+              { "key": "C", "value": "快速查询<br />" },
+              { "key": "D", "value": "可处理大量数据<br />" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671264,
+            "question_id": 55240658,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列选项中那些是Hadoop2.x版本独有的进程(　　)",
+            "options": [
+              { "key": "A", "value": "JobTracker<br />" },
+              { "key": "B", "value": "TaskTracker<br />" },
+              { "key": "C", "value": "NodeManager<br />" },
+              { "key": "D", "value": "NameNode<br />" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671265,
+            "question_id": 55240647,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "客户端连接Zookeeper集群的命令是(　　)。",
+            "options": [
+              { "key": "A", "value": "get<br />" },
+              { "key": "B", "value": "delete<br />" },
+              { "key": "C", "value": "zkCli.sh<br />" },
+              { "key": "D", "value": "ls<br />" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671266,
+            "question_id": 55240644,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "MapReduce自定义排序规则需要重写下列那项方法(　　)",
+            "options": [
+              { "key": "A", "value": "readFields()<br />" },
+              { "key": "B", "value": "compareTo()<br />" },
+              { "key": "C", "value": "map()<br />" },
+              { "key": "D", "value": "reduce()<br />" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671267,
+            "question_id": 55232794,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在实验集群的master节点使用jps命令查看进程时，终端出现以下哪项能说明Hadoop主节点启动成功？",
+            "options": [
+              { "key": "A", "value": "Namenode,Datanode,TaskTracker" },
+              { "key": "B", "value": "Namenode,Datanode,secondaryNameNode" },
+              { "key": "C", "value": "Namenode,Datanode,HMaster" },
+              { "key": "D", "value": "Namenode,JobTracker,secondaryNameNode" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671268,
+            "question_id": 55232789,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下面哪个程序负责HDFS数据存储。",
+            "options": [
+              { "key": "A", "value": "NameNode" },
+              { "key": "B", "value": "Jobtracker" },
+              { "key": "C", "value": "Datanode" },
+              { "key": "D", "value": "secondaryNameNode" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671269,
+            "question_id": 55231859,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在HBase中，关于数据操作的描述，下列哪一项是错误的？",
+            "options": [
+              {
+                "key": "A",
+                "value": "HBase采用了更加简单的数据模型，它把数据存储为未经解释的字符串"
+              },
+              { "key": "B", "value": "HBase操作不存在复杂的表与表之间的关系" },
+              { "key": "C", "value": "HBase不支持修改操作" },
+              {
+                "key": "D",
+                "value": "HBase在设计上就避免了复杂的表和表之间的关系"
+              }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671270,
+            "question_id": 55231359,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "分布式文件系统指的是什么？",
+            "options": [
+              {
+                "key": "A",
+                "value": "把文件分布存储到多个计算机节点上，成千上万的计算机节点构成计算机集群"
+              },
+              {
+                "key": "B",
+                "value": "用于在Hadoop与传统数据库之间进行数据传递"
+              },
+              {
+                "key": "C",
+                "value": "一个高可用的，高可靠的，分布式的海量日志采集、聚合和传输的系统"
+              },
+              {
+                "key": "D",
+                "value": "一种高吞吐量的分布式发布订阅消息系统，可以处理消费者规模的网站中的所有动作流数据"
+              }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671271,
+            "question_id": 55231348,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下面哪一项不是Hadoop的特性？",
+            "options": [
+              { "key": "A", "value": "可扩展性高" },
+              { "key": "B", "value": "只支持少数几种编程语言" },
+              { "key": "C", "value": "成本低" },
+              { "key": "D", "value": "能在linux上运行" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671272,
+            "question_id": 55231328,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "云计算平台层（PaaS）指的是什么？",
+            "options": [
+              { "key": "A", "value": "操作系统和围绕特定应用的必需的服务" },
+              { "key": "B", "value": "将基础设施(计算资源和存储)作为服务出租" },
+              {
+                "key": "C",
+                "value": "从一个集中的系统部署软件，使之在一台本地计算机上(或从云中远程地)运行的一个模型"
+              },
+              {
+                "key": "D",
+                "value": "提供硬件、软件、网络等基础设施以及提供咨询、规划和系统集成服务"
+              }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671273,
+            "question_id": 55231916,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列哪个不属于NoSQL数据库的特点？",
+            "options": [
+              { "key": "A", "value": "灵活的可扩展性" },
+              { "key": "B", "value": "灵活的数据模型" },
+              { "key": "C", "value": "与云计算紧密融合" },
+              { "key": "D", "value": "数据存储规模有限" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671274,
+            "question_id": 55231922,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下面关于MongoDB说法，哪一项是正确的？",
+            "options": [
+              { "key": "A", "value": "具有较差的水平可扩展性" },
+              { "key": "B", "value": "设置个别属性的索引来实现更快的排序" },
+              { "key": "C", "value": "提供了一个面向文档存储，操作复杂" },
+              {
+                "key": "D",
+                "value": "可以实现替换完成的文档（数据）或者一些指定的数据字段"
+              }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671275,
+            "question_id": 55232692,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列关于大数据的分析理念的说法中，错误的是（）",
+            "options": [
+              {
+                "key": "A",
+                "value": "在数据基础上倾向于全体数据而不是抽样数据"
+              },
+              {
+                "key": "B",
+                "value": "在分析方法上更注重相关分析而不是因果分析"
+              },
+              { "key": "C", "value": "在分析效果上更追求效率而不是绝对精确" },
+              { "key": "D", "value": "在数据规模上强调相对数据而不是绝对数据" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671276,
+            "question_id": 55232304,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下面关于UserCF算法和ItemCF算法的对比，哪个是错误的？",
+            "options": [
+              {
+                "key": "A",
+                "value": "UserCF算法的推荐更偏向社会化：适合应用于新闻推荐、微博话题推荐等应用场景，其推荐结果在新颖性方面有一定的优势"
+              },
+              { "key": "B", "value": "ItemCF算法的推荐更偏向于个性化" },
+              {
+                "key": "C",
+                "value": "ItemCF随着用户数目的增大，用户相似度计算复杂度越来越高"
+              },
+              {
+                "key": "D",
+                "value": "UserCF推荐结果相关性较弱，难以对推荐结果作出解释，容易受大众影响而推荐热门物品"
+              }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671277,
+            "question_id": 55240663,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "以下选项中，哪种类型间的转换是被Hive查询语言所支持的(　　)",
+            "options": [
+              { "key": "A", "value": "Double—Number<br />" },
+              { "key": "B", "value": "BigInt—Double<br />" },
+              { "key": "C", "value": "Int—BigInt<br />" },
+              { "key": "D", "value": "String--Double<br />" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60102
+          },
+          {
+            "id": 77671278,
+            "question_id": 11547751,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "对于大数据而言，最基本、最重要的要求就是减少错误，保证质量。因此，大数据收集的信息量要尽量精确。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60103
+          },
+          {
+            "id": 77671279,
+            "question_id": 55233574,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "人们关心大数据，最终是关心大数据的应用，关心如何从业务和应用出发让大数据真正实现其蕴含的价值，从而为人们的生产生活带来有益的改变。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60103
+          },
+          {
+            "id": 77671280,
+            "question_id": 55233573,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "在大数据的范畴内，应该把用户视为互联网中的数据分子，独立、细致地对其行为进行为特征，充分挖掘大数据的价值，变数据为资产。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60103
+          },
+          {
+            "id": 77671281,
+            "question_id": 55233558,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据认责明确了数据管理的参与部门及其责任，有助于数据治理工作落实到实处。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60103
+          },
+          {
+            "id": 77671282,
+            "question_id": 55233578,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "分布式和集群都是解决大数据解决方案。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60103
+          },
+          {
+            "id": 77671283,
+            "question_id": 55233590,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "python中可以应用在大数据实时运算，java应用在大数据的推送。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60103
+          },
+          {
+            "id": 77671284,
+            "question_id": 55240532,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "Kafka适用于实时性要求不高的场景。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60103
+          },
+          {
+            "id": 77671285,
+            "question_id": 55240519,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "Zookeeper对节点的Watch监听通知是永久性的。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60103
+          },
+          {
+            "id": 77671286,
+            "question_id": 55233596,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "hadoop是java编写的，所以只支持对java编程语言。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60103
+          },
+          {
+            "id": 77671287,
+            "question_id": 55233591,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据仓库中包含大量的综合数据,这些综合数据会随着时间的变化不断地进行重新综合。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60103
+          },
+          {
+            "id": 77671288,
+            "question_id": 55231893,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "HBase的实现包括哪三个主要的功能组件？",
+            "options": [
+              { "key": "A", "value": "库函数：链接到每个客户端" },
+              { "key": "B", "value": "一个Master主服务器" },
+              { "key": "C", "value": "许多个Region服务器" },
+              { "key": "D", "value": "廉价的计算机集群" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60104
+          },
+          {
+            "id": 77671289,
+            "question_id": 55231462,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "HDFS数据块多副本存储具备以下哪些优点？",
+            "options": [
+              { "key": "A", "value": "加快数据传输速度" },
+              { "key": "B", "value": "容易检查数据错误" },
+              { "key": "C", "value": "保证数据可靠性" },
+              { "key": "D", "value": "适合多平台上运行" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60104
+          },
+          {
+            "id": 77671290,
+            "question_id": 55231461,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "HDFS只设置唯一一个名称节点，这样做虽然大大简化了系统设计，但也带来了哪些明显的局限性？",
+            "options": [
+              { "key": "A", "value": "命名空间的限制" },
+              { "key": "B", "value": "性能的瓶颈" },
+              { "key": "C", "value": "隔离问题" },
+              { "key": "D", "value": "集群的可用性" }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60104
+          },
+          {
+            "id": 77671291,
+            "question_id": 55231340,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "物联网的关键技术包括哪些？",
+            "options": [
+              { "key": "A", "value": "识别和感知技术" },
+              { "key": "B", "value": "网络与通信技术" },
+              { "key": "C", "value": "数据挖掘与融合技术" },
+              { "key": "D", "value": "信息处理一体化技术" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60104
+          },
+          {
+            "id": 77671292,
+            "question_id": 55232275,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "信息图表是信息、数据、知识等的视觉化表达，下列哪个说法正确？",
+            "options": [
+              {
+                "key": "A",
+                "value": "谷歌公司的制图服务接口Google Chart API，可以用来为统计数据并自动生成图片"
+              },
+              {
+                "key": "B",
+                "value": "D3是最流行的可视化库之一，是一个用于网页作图、生成互动图形的JavaScript函数库"
+              },
+              {
+                "key": "C",
+                "value": "ECharts是由百度公司前端数据可视化团队研发的图表库，可以流畅地运行在PC和移动设备上"
+              },
+              {
+                "key": "D",
+                "value": "大数据魔镜是一款优秀的国产数据分析软件，它丰富的数据公式和算法可以让用户真正理解探索分析数据"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60104
+          },
+          {
+            "id": 77671293,
+            "question_id": 55232214,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "在一个Worker中，它所管辖的分区的状态信息是保存在内存中的，分区中的顶点的状态信息包括？",
+            "options": [
+              { "key": "A", "value": "顶点的当前值" },
+              {
+                "key": "B",
+                "value": "以该顶点为起点的出射边列表，每条出射边包含了目标顶点ID和边的值"
+              },
+              {
+                "key": "C",
+                "value": "消息队列，包含了所有接收到的、发送给该顶点的消息"
+              },
+              { "key": "D", "value": "标志位，用来标记顶点是否处于活跃状态" }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60104
+          },
+          {
+            "id": 77671294,
+            "question_id": 55232159,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "Flink系统主要由两个组件组成：（）",
+            "options": [
+              { "key": "A", "value": "JobManager" },
+              { "key": "B", "value": "JobTrackder" },
+              { "key": "C", "value": "TaskTracker" },
+              { "key": "D", "value": "TaskManager" }
+            ],
+            "score": 2.5,
+            "answer": "AD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60104
+          },
+          {
+            "id": 77671295,
+            "question_id": 55232154,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "Flink的优势包括：（）",
+            "options": [
+              { "key": "A", "value": "同时支持高吞吐、低延迟、高性能" },
+              { "key": "B", "value": "同时支持流处理和批处理" },
+              { "key": "C", "value": "支持有状态计算" },
+              { "key": "D", "value": "具有独立的内存管理" }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60104
+          },
+          {
+            "id": 77671296,
+            "question_id": 55232106,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列哪些选项属于Hadoop的缺点？",
+            "options": [
+              { "key": "A", "value": "表达能力有限" },
+              { "key": "B", "value": "磁盘IO开销大" },
+              { "key": "C", "value": "延迟高" },
+              {
+                "key": "D",
+                "value": "在前一个任务执行完成之前，其他任务就无法开始，难以胜任复杂、多阶段的计算任务"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60104
+          },
+          {
+            "id": 77671297,
+            "question_id": 55231953,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "Microsoft的云数据库产品SQLAzure具有以下哪些特性？",
+            "options": [
+              {
+                "key": "A",
+                "value": "属于关系型数据库：支持使用TSQL来管理、创建和操作云数据库"
+              },
+              {
+                "key": "B",
+                "value": "支持存储过程：它的数据类型、存储过程和传统的SQLServer具有很大的相似性"
+              },
+              { "key": "C", "value": "支持大量数据类型" },
+              {
+                "key": "D",
+                "value": "支持云中的事务：支持局部事务，但是不支持分布式事务"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60104
+          }
+        ]
+      },
+      {
+        "id": 15244,
+        "name": "大数据工程技术人员试题及答案(五)",
+        "score": 100,
+        "question_count": 40,
+        "question_type_data": [
+          {
+            "type_name": "单选题",
+            "question_count": 0,
+            "score_sum": 0,
+            "type": 2
+          },
+          {
+            "type_name": "判断题",
+            "question_count": 0,
+            "score_sum": 0,
+            "type": 1
+          },
+          {
+            "type_name": "多选题",
+            "question_count": 0,
+            "score_sum": 0,
+            "type": 3
+          }
+        ],
+        "questions_list": [
+          {
+            "id": 77668638,
+            "question_id": 55233307,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "促进隐私保护的一种创新途径是（ ）：故意将数据模糊处理，促使对大数据库的查询不能显示精确的结果。",
+            "options": [
+              { "key": "A", "value": "匿名化" },
+              { "key": "B", "value": "信息模糊化" },
+              { "key": "C", "value": "个人隐私保护" },
+              { "key": "D", "value": "差别隐私" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668639,
+            "question_id": 55233306,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "对大数据使用进行正规评测及正确引导，可以为数据使用者带来什么切实的好处（ ）",
+            "options": [
+              {
+                "key": "A",
+                "value": "他们无须再取得个人的明确同意，就可以对个人数据进行二次利用。"
+              },
+              {
+                "key": "B",
+                "value": "数据使用者不需要为敷衍了事的评测和不达标准的保护措施承担法律责任。"
+              },
+              {
+                "key": "C",
+                "value": "数据使用者的责任不需要强制力规范就能确保履行到位。"
+              },
+              {
+                "key": "D",
+                "value": "所有项目，管理者必须设立规章，规定数据使用者应如何评估风险.如何规避或减轻潜在伤害。"
+              }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668640,
+            "question_id": 55233292,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "大数据的核心就是（ ）。",
+            "options": [
+              { "key": "A", "value": "告知与许可" },
+              { "key": "B", "value": "预测" },
+              { "key": "C", "value": "匿名化" },
+              { "key": "D", "value": "规模化" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "大数据的核心就是预测。大数据（big data），指无法在一定时间范围内用常规软件工具进行捕捉、管理和处理的数据集合，是需要新处理模式才能具有更强的决策力、洞察发现力和流程优化能力的海量、高增长率和多样化的信息资产。",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668641,
+            "question_id": 55233283,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列对大数据平台软硬件系统架构的描述中错误的是：",
+            "options": [
+              {
+                "key": "A",
+                "value": "大数据平台使用大量廉价的PC服务器构建集群，每个节点同时承担计算和存储的角色"
+              },
+              {
+                "key": "B",
+                "value": "通过高冗余设计以及大规模的进行处理，大数据PC服务器集群的最终处理能力要远胜于小型机集群"
+              },
+              {
+                "key": "C",
+                "value": "大数据软件架构采用分布式架构，集群中多节点的通信方式简单，功能定位明确，尽可能减少节点间的依赖"
+              },
+              {
+                "key": "D",
+                "value": "为确保系统的高性能和高可靠性，大数据硬件平台会大量采用专用存储和专用高端服务器"
+              }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668642,
+            "question_id": 55233275,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "以下哪个存储介质是易丢失存储",
+            "options": [
+              { "key": "A", "value": "主存储器<br />" },
+              { "key": "B", "value": "快闪存储器<br />" },
+              { "key": "C", "value": "磁带存储<br />" },
+              { "key": "D", "value": "磁盘存储<br />" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668643,
+            "question_id": 55240656,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "将关系型数据库中的数据导入到Hadoop平台的工具是(　　)。",
+            "options": [
+              { "key": "A", "value": "import<br />" },
+              { "key": "B", "value": "export<br />" },
+              { "key": "C", "value": "overwrite<br />" },
+              { "key": "D", "value": "drop<br />" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668644,
+            "question_id": 55240638,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在Hadoop2.x版本下，HDFS中的文件总是按照默认大小(　　)被切分成不同的块，且备份3份。",
+            "options": [
+              { "key": "A", "value": "256M<br />" },
+              { "key": "B", "value": "128M<br />" },
+              { "key": "C", "value": "512M<br />" },
+              { "key": "D", "value": "1024M<br />" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668645,
+            "question_id": 55240635,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列描述说法错误的是？(　　)",
+            "options": [
+              {
+                "key": "A",
+                "value": "SecureCRT是一款支持SSH的终端仿真程序，它能够在Windows操作系统上远程连接Linux服务器执行操作。<br />"
+              },
+              {
+                "key": "B",
+                "value": "Hadoop是一个用于处理大数据的分布式集群架构，支持在GNU/Linux系统以及Windows系统上进行安装使用。<br />"
+              },
+              { "key": "C", "value": "VMware<br />" },
+              {
+                "key": "D",
+                "value": "SSH是一个软件，专为远程登录会话和其他网络服务提供安全性功能的软件。<br />"
+              }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668646,
+            "question_id": 55232694,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "假设一种基因同时导致两件事情，一是使人喜欢抽烟，二是使这个人和肺癌就是（）关系，而吸烟和肺癌则是（）关系",
+            "options": [
+              { "key": "A", "value": "因果；相关" },
+              { "key": "B", "value": "相关；因果" },
+              { "key": "C", "value": "并列；相关" },
+              { "key": "D", "value": "因果；并列" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668647,
+            "question_id": 55231361,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在HDFS中，默认一个块多大？",
+            "options": [
+              { "key": "A", "value": "64MB" },
+              { "key": "B", "value": "32KB" },
+              { "key": "C", "value": "128KB" },
+              { "key": "D", "value": "16KB" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668648,
+            "question_id": 55231350,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "在Hadoop项目结构中，MapReduce指的是什么？",
+            "options": [
+              { "key": "A", "value": "分布式并行编程模型" },
+              { "key": "B", "value": "流计算框架" },
+              { "key": "C", "value": "Hadoop上的工作流管理系统" },
+              { "key": "D", "value": "提供分布式协调一致性服务" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668649,
+            "question_id": 55231327,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列哪一个不属于第三次信息化浪潮中新兴的技术？",
+            "options": [
+              { "key": "A", "value": "互联网" },
+              { "key": "B", "value": "云计算" },
+              { "key": "C", "value": "大数据" },
+              { "key": "D", "value": "物联网" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668650,
+            "question_id": 52849420,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "可以对大数据进行深度分析的工具是(　　)。",
+            "options": [
+              { "key": "A", "value": "浅层神经网络<br />" },
+              { "key": "B", "value": "Scala<br />" },
+              { "key": "C", "value": "深度学习<br />" },
+              { "key": "D", "value": "MapReduce<br />" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668651,
+            "question_id": 16155915,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "智慧城市的构建，不包含(　　)。",
+            "options": [
+              { "key": "A", "value": "数字城市<br />" },
+              { "key": "B", "value": "物联网<br />" },
+              { "key": "C", "value": "联网监控<br />" },
+              { "key": "D", "value": "云计算<br />" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668652,
+            "question_id": 16003113,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "关于数据创新，下列说法正确的是（ ）",
+            "options": [
+              {
+                "key": "A",
+                "value": "多个数据集的总和价值等于单个数据集价值相加；"
+              },
+              {
+                "key": "B",
+                "value": "由于数据的再利用，数据应该永久保存下去；"
+              },
+              {
+                "key": "C",
+                "value": "相同数据多次用于相同或类似用途，其有效性会降低；"
+              },
+              { "key": "D", "value": "数据只有开放价值才能得到真正释放。" }
+            ],
+            "score": 2.5,
+            "answer": "D",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668653,
+            "question_id": 55232427,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列论据中，能够支撑“大数据无所不能”的观点的是(　　)。",
+            "options": [
+              { "key": "A", "value": "互联网金融打破了传统的观念和行为<br />" },
+              { "key": "B", "value": "大数据存在泡沫<br />" },
+              { "key": "C", "value": "大数据具有非常高的成本<br />" },
+              { "key": "D", "value": "个人隐私泄露与信息安全担忧<br />" }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668654,
+            "question_id": 55232424,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "万维网之父是（）。",
+            "options": [
+              { "key": "A", "value": "彼得德鲁克" },
+              { "key": "B", "value": "舍恩伯格" },
+              { "key": "C", "value": "蒂姆伯纳斯－李" },
+              { "key": "D", "value": "斯科特布朗" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668655,
+            "question_id": 55232421,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列关于网络用户行为的说法中，错误的是（ ）",
+            "options": [
+              {
+                "key": "A",
+                "value": "网络公司能够捕捉到用户在其网站上的所有行为"
+              },
+              {
+                "key": "B",
+                "value": "用户离散的交互痕迹能够为企业提升服务质量提供参考"
+              },
+              { "key": "C", "value": "数字轨迹用完即自动删除" },
+              { "key": "D", "value": "用户的隐私安全很难得以规范保护" }
+            ],
+            "score": 2.5,
+            "answer": "C",
+            "analysis": "本题主要考查网络相关知识点。网络公司能够捕捉到用户在其网站上的所有行为；用户离散的交互痕迹能够为企业提升服务质量提供参考；数字轨迹用完不会自动删除；用户的隐私安全很难得以规范保护，故本题选C选项。",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668656,
+            "question_id": 55232365,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "下列哪个关于Stream Groupings的描述，有误的是？",
+            "options": [
+              {
+                "key": "A",
+                "value": "FieldsGrouping：广播发送，每一个Task都会收到所有的Tuple"
+              },
+              {
+                "key": "B",
+                "value": "GlobalGrouping：全局分组，所有的Tuple都发送到同一个Task中"
+              },
+              {
+                "key": "C",
+                "value": "NonGrouping：不分组，和ShuffleGrouping类似，当前Task的执行会和它的被订阅者在同一个线程中执行"
+              },
+              {
+                "key": "D",
+                "value": "DirectGrouping：直接分组，直接指定由某个Task来执行Tuple的处理"
+              }
+            ],
+            "score": 2.5,
+            "answer": "A",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668657,
+            "question_id": 55240657,
+            "type_name": "单选题",
+            "type": 2,
+            "name": "(　　)是一个分布式的基于发布/订阅模式的消息队列。",
+            "options": [
+              { "key": "A", "value": "Flume<br />" },
+              { "key": "B", "value": "Kafka<br />" },
+              { "key": "C", "value": "Zookeeper<br />" },
+              { "key": "D", "value": "Hive<br />" }
+            ],
+            "score": 2.5,
+            "answer": "B",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "单选题",
+            "paper_type_id": 60105
+          },
+          {
+            "id": 77668658,
+            "question_id": 11546517,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "具备很强的报告撰写能力，可以把分析结果通过文字、图表、可视化等多种方式清晰地展现出来，能够清楚地论述分析结果及可能产生的影响，从而说服决策者信服并采纳其建议，是数据分析能力对大数据人才的基本要求",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60106
+          },
+          {
+            "id": 77668659,
+            "question_id": 55233560,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据挖掘应用工具有很多，其中Python可以用于数据分析。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60106
+          },
+          {
+            "id": 77668660,
+            "question_id": 55233570,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "用以分析问题的概念、数学关系、逻辑关系和算法序列的表示体系称之为模型。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60106
+          },
+          {
+            "id": 77668661,
+            "question_id": 55233577,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "云计算核心就是本地无法解决的问题提交到计算机网络集群中运算，运用网络计算机的能力。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60106
+          },
+          {
+            "id": 77668662,
+            "question_id": 55240516,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "Map阶段处理数据时，是按照Key的哈希值与ReduceTask数量取模进行分区的规则。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60106
+          },
+          {
+            "id": 77668663,
+            "question_id": 55240511,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "Hadoop存在多个副本，且默认备份数量是3。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60106
+          },
+          {
+            "id": 77668664,
+            "question_id": 55240509,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "伪分布式模式下的Hadoop功能与完全分布式模式下的Hadoop功能相同。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60106
+          },
+          {
+            "id": 77668665,
+            "question_id": 55233594,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "超市根据销售纪录发现，买啤酒的顾客有35%概率也会购买儿童尿布，这种属于数据挖掘的关联规则。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60106
+          },
+          {
+            "id": 77668666,
+            "question_id": 55233583,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "数据挖掘可以是很少的数据得到精确的结果，从而给出精准的决策。",
+            "options": [],
+            "score": 2.5,
+            "answer": "错",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60106
+          },
+          {
+            "id": 77668667,
+            "question_id": 19263720,
+            "type_name": "判断题",
+            "type": 1,
+            "name": "Hadoop HA是集群中启动两台或两台以上机器充当NameNode，避免一台NameNode节点发生故障导致整个集群不可用的情况。",
+            "options": [],
+            "score": 2.5,
+            "answer": "对",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "判断题",
+            "paper_type_id": 60106
+          },
+          {
+            "id": 77668668,
+            "question_id": 55233291,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "大数据已经在众多领域中被应用，下列对大数据应用案例的描述中正确的是：（）",
+            "options": [
+              {
+                "key": "A",
+                "value": "在零售行业可利用大数据开展精准营销、产品推荐、顾客忠诚度分析等"
+              },
+              {
+                "key": "B",
+                "value": "在金融行业可利用大数据开展智能决策、客户信用度分析、金融服务创新等"
+              },
+              {
+                "key": "C",
+                "value": "在交通行业可利用大数据开展交通方案优化、最佳出行路线制定、突发事故处理等"
+              },
+              {
+                "key": "D",
+                "value": "在互联网行业可利用大数据开展市场动态洞察、社交网络分析、互联网产品创新等'"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60107
+          },
+          {
+            "id": 77668669,
+            "question_id": 55232851,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "当采用MapReduce作为Hive的执行引擎时，下面描述正确的是：（ ）",
+            "options": [
+              {
+                "key": "A",
+                "value": "当用户向Hive输入一段命令或查询（即HiveQL语句）时，Hive需要与Hadoop交互工作来完成该操作"
+              },
+              {
+                "key": "B",
+                "value": "命令或查询首先进入到驱动模块，由驱动模块中的编译器进行解析编译，并由优化器对该操作进行优化计算，然后交给执行器去执行"
+              },
+              {
+                "key": "C",
+                "value": "执行器通常的任务是启动一个或多个MapReduce任务，有时也不需要启动MapReduce任务"
+              },
+              {
+                "key": "D",
+                "value": "执行器通常的任务一定会包含Map和Reduce操作"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60107
+          },
+          {
+            "id": 77668670,
+            "question_id": 55232626,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "大数据人才整体上需要具备（）等核心知识。",
+            "options": [
+              { "key": "A", "value": "数学与统计知识" },
+              { "key": "B", "value": "计算机相关知识" },
+              { "key": "C", "value": "马克思主义哲学知识" },
+              { "key": "D", "value": "市场运营管理知识" },
+              { "key": "E", "value": "在特定业务领域的知识" }
+            ],
+            "score": 2.5,
+            "answer": "ABE",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60107
+          },
+          {
+            "id": 77668671,
+            "question_id": 53399833,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列关于大数据的说法中，错误的是（）。",
+            "options": [
+              {
+                "key": "A",
+                "value": "大数据具有体量大、结构单一、时效性强的特征"
+              },
+              {
+                "key": "B",
+                "value": "处理大数据需采用新型计算架构和智能算法等新技术"
+              },
+              { "key": "C", "value": "大数据的应用注重相关分析而不是因果分析" },
+              { "key": "D", "value": "大数据的应用注重因果分析而不是相关分析" },
+              {
+                "key": "E",
+                "value": "大数据的目的在于发现新的知识与洞察并进行科学决策"
+              }
+            ],
+            "score": 2.5,
+            "answer": "AD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60107
+          },
+          {
+            "id": 77668672,
+            "question_id": 55231454,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "HDFS要实现以下哪几个目标？",
+            "options": [
+              { "key": "A", "value": "兼容廉价的硬件设备" },
+              { "key": "B", "value": "流数据读写" },
+              { "key": "C", "value": "大数据集" },
+              { "key": "D", "value": "复杂的文件模型" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60107
+          },
+          {
+            "id": 77668673,
+            "question_id": 55232113,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "Spark支持哪三种不同类型的部署方式？",
+            "options": [
+              {
+                "key": "A",
+                "value": "Standalone（类似于MapReduce1.0，slot为资源分配单位）"
+              },
+              {
+                "key": "B",
+                "value": "Spark on Mesos（和Spark有血缘关系，更好支持Mesos）"
+              },
+              { "key": "C", "value": "Spark on YARN" },
+              { "key": "D", "value": "Spark on HDFS" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60107
+          },
+          {
+            "id": 77668674,
+            "question_id": 55232623,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列关于脏数据的说法中，正确的是（）。",
+            "options": [
+              { "key": "A", "value": "格式不规范" },
+              { "key": "B", "value": "编码不统一" },
+              { "key": "C", "value": "意义不明确" },
+              { "key": "D", "value": "与实际业务关系不大" },
+              { "key": "E", "value": "数据不完整" }
+            ],
+            "score": 2.5,
+            "answer": "ABCDE",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60107
+          },
+          {
+            "id": 77668675,
+            "question_id": 55232409,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列关于流计算与Hadoop的说法，正确的有？",
+            "options": [
+              { "key": "A", "value": "Hadoop擅长批处理，不适合流计算" },
+              {
+                "key": "B",
+                "value": "MapReduce是专门面向静态数据的批量处理的"
+              },
+              {
+                "key": "C",
+                "value": "Hadoop设计的初衷是面向大规模数据的批量处理"
+              },
+              {
+                "key": "D",
+                "value": "MapReduce不适合用于处理持续到达的动态数据"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ABCD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60107
+          },
+          {
+            "id": 77668676,
+            "question_id": 55232407,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "下列关于批量计算和实时计算的说法，正确的有？",
+            "options": [
+              {
+                "key": "A",
+                "value": "批量计算：充裕时间处理静态数据，如Hadoop"
+              },
+              {
+                "key": "B",
+                "value": "静态数据不适合采用批量计算，因为它不适合用传统的关系模型建模"
+              },
+              { "key": "C", "value": "流数据必须采用实时计算" },
+              {
+                "key": "D",
+                "value": "流数据的响应时间一般为秒级，甚至需要毫秒级"
+              }
+            ],
+            "score": 2.5,
+            "answer": "ACD",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60107
+          },
+          {
+            "id": 77668677,
+            "question_id": 55232207,
+            "type_name": "多选题",
+            "type": 3,
+            "name": "很多传统的图计算算法都存在以下哪些典型问题？",
+            "options": [
+              { "key": "A", "value": "常常表现出比较差的内存访问局部性" },
+              { "key": "B", "value": "针对单个顶点的处理工作过少" },
+              { "key": "C", "value": "计算过程中伴随着并行度的改变" },
+              { "key": "D", "value": "计算过程简易" }
+            ],
+            "score": 2.5,
+            "answer": "ABC",
+            "analysis": "",
+            "material_id": 0,
+            "is_materials": false,
+            "materials": "",
+            "paper_type_title": "多选题",
+            "paper_type_id": 60107
+          }
+        ]
+      }
+    ]
+  }
+]
