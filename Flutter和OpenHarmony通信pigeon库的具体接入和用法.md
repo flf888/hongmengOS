@@ -1,4 +1,4 @@
-##  Flutter和OpenHarmony通信pigeon库的具体接入和用法
+##  HarmonyOS next之Flutter和OpenHarmony通信pigeon库的具体接入和用法
 
 **Pigeon**
 
@@ -219,4 +219,3 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 ```
-
