@@ -1,4 +1,4 @@
-## 一. Flutter开发鸿蒙，终端一体化
+## 一.  HarmonyOS next之Flutter开发鸿蒙，终端一体化
 
 ### 1.flutter鸿蒙一体化介绍
 
@@ -11,12 +11,13 @@ https://gitee.com/openharmony-sig/flutter_flutter/tree/dev/ 当前项目已经�
 
 
 #### 
+
 #### 2.1、环境准备
 
 
 1.1 官方下载地址鸿蒙开发套件官方下载地址：[https://developer.huawei.com/consumer/cn/download/](https://developer.huawei.com/consumer/cn/download/)
-```
 
+```
 注意事项：
 （1）目前支持操作系统Linux、Mac、Windows环境下使用
 （2）mac系统在终端输入"uname -m"判断系统架构选择对应的开发组件套
@@ -34,9 +35,11 @@ https://gitee.com/openharmony-sig/flutter_flutter/tree/dev/ 当前项目已经�
 （2）若无鸿蒙真机，需在DevEco Studio中下载模拟器模拟器下载和安装步骤见：
 2.2 安装模拟器
 （3）下载鸿蒙版flutter项目地址：
+
 ```
 https://gitee.com/openharmony-sig/flutter_flutter
 ```
+
 通过代码工具下载仓库代码并指定dev或master分支，dev不断在更新相比master拥有更多功能
 
 
