@@ -1,3 +1,4 @@
+# HarmonyOS next之flutter开发适配鸿蒙之开发环境搭建
 ##### 第一：环境搭建
 1.安装 [DevEco Studio NEXT IDE](https://developer.huawei.com/consumer/cn/deveco-studio/), 注意版本应该是 Next，当前最新的是 Beta3
 .下载之前需要先登录，后面的模拟器创建还要开发者验证、审核啥的，好在审核进度还可以，我这边提交申请后差不多两个小时审核通过
