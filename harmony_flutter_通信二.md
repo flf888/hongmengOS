@@ -1,4 +1,4 @@
-# Flutter与鸿蒙原生交互二
+# HarmonyOS next之Flutter与鸿蒙原生交互二
 
 ### flutter 有三种基础的通道
 
@@ -103,4 +103,3 @@ export default class TestPlugin implements FlutterPlugin {// 继承FlutterPlugin
 // 使用 EventSink 发送数据后，dart断的事件监听回调会收到发送的数据。
 that.eventSink?.success("eventSink message ");
 ```
-
