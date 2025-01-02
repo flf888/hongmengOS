@@ -1,5 +1,5 @@
-# Flutter与鸿蒙三方库ohos的适配
-
+# HarmonyOS next之Flutter与鸿蒙三方库ohos的适配
+HarmonyOS next之Flutter与鸿蒙三方库ohos的适配
 ### 一、前期准备
 
 - flutter开发环境
