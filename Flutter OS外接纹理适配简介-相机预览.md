@@ -1,4 +1,4 @@
-Flutter OHOS外接纹理适配简介
+HarmonyOS next之Flutter OHOS外接纹理适配简介
 
 Flutter在OHOS平台使用外接纹理，视频播放和相机预览使用方法是一致的，在注册纹理时，flutter engine返回surfaceId。图片场景，则是以PixelMap的形式注册到flutter engine。
 
