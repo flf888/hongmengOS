@@ -1,4 +1,4 @@
-# 简易APP 应用续接时获取数据
+# HarmonyOS next之简易APP 应用续接时获取数据
 
 前言：
 
