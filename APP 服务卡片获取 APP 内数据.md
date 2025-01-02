@@ -1,4 +1,4 @@
-# APP 服务卡片获取 APP 内数据
+# HarmonyOS next之APP 服务卡片获取 APP 内数据
 
 ### （1）根据需要创建一个服务卡片，
 
