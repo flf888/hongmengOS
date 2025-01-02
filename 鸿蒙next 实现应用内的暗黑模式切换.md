@@ -1,7 +1,6 @@
 # 鸿蒙 next 实现应用内的暗黑模式切换
 
-
-
+HarmonyOS next之鸿蒙 next 实现应用内的暗黑模式切换
 实现暗黑模式的大致思路是利用@Provider 与 @Consume 共享一个 lightMode 变量，在页面创建时读取持久化的lightMode，来实现暗黑模式。
 
 
