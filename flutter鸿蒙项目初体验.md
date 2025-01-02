@@ -1,4 +1,4 @@
-# flutter鸿蒙项目初体验
+#  HarmonyOS next之flutter鸿蒙项目初体验
 
 ### 1.基础的环境变量配置
 
@@ -78,8 +78,6 @@ flutter build hap --debug
 ### 4.项目签名
 
 直接使用DevEco Studio 打开 使用软件签名即可
-
-![image-20241030144433646](https://raw.githubusercontent.com/shaolongmin/typoraImg/main/image-20241030144433646.png?token=ABIIT5RLGGE724HPI4TJ23LHEHLBE)
 
 ### 5.直接真机测试运行
 
