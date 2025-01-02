@@ -1,5 +1,5 @@
 # Flutter+鸿蒙NEXT开发获取系统文件路径
-
+ HarmonyOS next之 Flutter+鸿蒙NEXT开发获取系统文件路径
 在具体的开发过程中,有时需要获取临时目录、文档目录等需求.本文具体讲解怎么在Flutter中可以利用path_provider插件来完成此项工作，OpenHarmony SIG组织对该插件做了鸿蒙NEXT系统的适配，接下来将详细讲解如何利用path_provider插件来获取系统文件路径。
 
 **在引用的项目中，pubspec.yaml中dependencies新增配置：**
