@@ -1,4 +1,4 @@
-# 鸿蒙Flutter怎么样调试dart代码
+# HarmonyOS next之鸿蒙Flutter怎么样调试dart代码
 
 - ets 代码使用 DevEco-Studio 进行调试。
 - dart 代码可以使用 vscode 和 Android Studio 进行调试。
