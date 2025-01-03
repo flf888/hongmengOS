@@ -1,4 +1,4 @@
-#鸿蒙ArkWeb基础 - 跨域请求
+HarmonyOS next之#鸿蒙ArkWeb基础 - 跨域请求
 
 ArkWeb内核出于安全考虑，默认限制file协议和resource协议的跨域访问。这意味着，如果Web组件尝试加载来自不同域的file协议或resource协议资源，将会被拦截，从而导致资源无法加载。
 例如，假设您的Web组件部署在域A上，而您想要加载域B上的本地资源，如图片或脚本文件。由于file协议和resource协议的限制，即使您的Web组件可以访问域B的URL，也无法加载域B上的本地资源。
