@@ -1,4 +1,4 @@
-# Flutter App Scheme
+# HarmonyOS next之Flutter App Scheme
 
 ## 配置说明
 
@@ -6,7 +6,7 @@
 在您项目中 Android的`AndroidManifest.xml`文件中按照如下规范添加`Scheme`,例如`android/app/src/main/AndroidManifest.xml`
 
 #### a、在需要启动的Activity中新增以下格式的代码
-    
+
     <!--Android Scheme-->
     <intent-filter>
       <action android:name="android.intent.action.VIEW" />
