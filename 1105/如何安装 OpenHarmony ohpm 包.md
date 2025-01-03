@@ -1,4 +1,4 @@
-# 如何安装 OpenHarmony ohpm 包
+#  HarmonyOS next之如何安装 OpenHarmony ohpm 包
 
 OpenHarmony js/ts三方库使用的是OpenHarmony静态共享包，即HAR(Harmony Archive)，可以包含js/ts代码、c++库、资源和配置文件。通过HAR，可以实现多个模块或者多个工程共享ArkUI组件、资源等相关代码。HAR不同于HAP，不能独立安装运行在设备上，只能作为应用模块的依赖项被引用。
 
