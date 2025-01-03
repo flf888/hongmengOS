@@ -1,6 +1,6 @@
-## PlatformView同层渲染方案适配切换指导  
+##  HarmonyOS next之PlatformView同层渲染方案适配切换指导  
 
-  
+
 ## PlatformView旧方案
 
 ### 简述
@@ -61,9 +61,9 @@
 Flutter页面嵌入PlatformView时会有下面两个严重缺陷：  
     1. PlatformView覆盖在FlutterView上面出现遮挡问题  
     2. 页面切换时，FlutterView和PlatformView动画不一致  
+
   
-  
-  
+
 ## PlatformView新方案
 
 ### 简述
@@ -91,7 +91,7 @@ Flutter页面嵌入PlatformView时会有下面两个严重缺陷：
       }
 
 
-  
+
 ## 新旧方案实现关键区别：
 旧方案：
 
@@ -113,7 +113,8 @@ Flutter页面嵌入PlatformView时会有下面两个严重缺陷：
       }
     );
 
-    
+
+​    
     /// 自定义PlatformView实体类的实现的接口
     getView(): DVModel {
       return this.model;
@@ -153,7 +154,7 @@ Flutter页面嵌入PlatformView时会有下面两个严重缺陷：
       .height('100%')
     }
     }
-    
+
 
     /// 自定义PlatformView实体类的实现的接口
     getView(): WrappedBuilder<[Params]> {
