@@ -1,4 +1,4 @@
-Flutter OHOS外接纹理适配简介-视频播放
+ HarmonyOS next之Flutter OHOS外接纹理适配简介-视频播放
 
 Flutter在OHOS平台使用外接纹理，视频播在注册纹理时，flutter engine返回surfaceId。
 
