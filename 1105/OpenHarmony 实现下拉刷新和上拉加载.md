@@ -1,4 +1,4 @@
-#  OpenHarmony 实现下拉刷新和上拉加载
+#   HarmonyOS next之OpenHarmony 实现下拉刷新和上拉加载
 
 下拉刷新、上拉加载功能是我们开发app中最常用的功能,本文通过PullToRefresh来实现这一基本的功能.
 
