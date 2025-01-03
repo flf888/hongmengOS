@@ -1,4 +1,4 @@
-# harmony_fluwx 集成微信服务
+# HarmonyOS next之harmony_fluwx 集成微信服务
 
 fluwx 链接：https://gitee.com/almost777/fluwx
 
@@ -160,7 +160,6 @@ fluwx 链接：https://gitee.com/almost777/fluwx
     }
     // 关闭弹窗
       });
-
 
 
 
