@@ -1,4 +1,4 @@
-# ohos开发鸿蒙（基于5.0.0版本）
+# HarmonyOS next之ohos开发鸿蒙（基于5.0.0版本）
 
 原始仓来源：https://github.com/flutter/flutter
 
@@ -107,4 +107,3 @@ flutter run --debug -d <deviceId>
 
 \# 指向DevEco-Studio下的sdk目录 flutter config --ohos-sdk=/Applications/DevEco-Studio.app/Contents/sdk(mac电脑上DevEco Studio的sdk路径)
 ```
-
