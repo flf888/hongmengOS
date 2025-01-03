@@ -1,4 +1,4 @@
-# harmony_flutter_amp 导入高德地图
+#  HarmonyOS next之harmony_flutter_amp 导入高德地图
 
 flutter_harmony_amp 链接：https://gitee.com/appkf_admin/amap_flutter_location_ohos
 
@@ -114,4 +114,3 @@ _locationPlugin.destroy();
       url: https://gitee.com/appkf_admin/amap_flutter_location_ohos
       ref: main # 指定分支，如果不指定，gitee默认为main
 ```
-
