@@ -1,4 +1,4 @@
-在鸿蒙开发中，如果你从某个API或方法接收到一个JSON对象，并且这个JSON对象中包含了一个`Map<String, Object>`类型的数据，你需要将这个数据解析并存储到一个使用`new Map<String, Object>()`创建的变量中。这里的关键步骤包括解析JSON字符串为JavaScript对象（如果它是字符串形式的话），然后遍历或直接赋值给`Map`对象。
+HarmonyOS next之在鸿蒙开发中，如果你从某个API或方法接收到一个JSON对象，并且这个JSON对象中包含了一个`Map<String, Object>`类型的数据，你需要将这个数据解析并存储到一个使用`new Map<String, Object>()`创建的变量中。这里的关键步骤包括解析JSON字符串为JavaScript对象（如果它是字符串形式的话），然后遍历或直接赋值给`Map`对象。
 
 不过，需要注意的是，在鸿蒙的ArkUI框架（特别是使用JS/TS进行开发时），原生并不直接支持Java中的`Map<String, Object>`类型，而是使用JavaScript的对象（Object）或Map对象（如果环境支持ES6+的Map）来模拟这种键值对存储。
 
