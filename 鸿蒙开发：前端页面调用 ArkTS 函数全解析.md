@@ -1,4 +1,4 @@
-# 鸿蒙开发：前端页面调用 ArkTS 函数全解析
+# HarmonyOS next之鸿蒙开发：前端页面调用 ArkTS 函数全解析
 
 ## JavaScriptProxy：前端与 ArkTS 交互的桥梁
 
