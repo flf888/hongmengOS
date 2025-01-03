@@ -1,4 +1,4 @@
-Flutter OHOS外接纹理适配简介-图片显示
+ HarmonyOS next之Flutter OHOS外接纹理适配简介-图片显示
 
 Flutter在OHOS平台使用外接纹理，图片场景，以PixelMap的形式注册到flutter engine，与视频播放和相机预览有所区别。
 
