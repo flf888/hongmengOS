@@ -1,4 +1,4 @@
-# DartNative
+# HarmonyOS next之DartNative
 
 DartNative 作为 Dart 和原生 API 之间沟通的桥梁。
 
@@ -70,7 +70,7 @@ Dart code:
     
     // Register method "hello".
     InterfaceMethod(hello, myHello:(NSString *)str) {
-        return [NSString stringWithFormat:@"hello %@!", str];
+        return [NSString stringWithFormat:@"hello %@!", str];
     }
     
     // Register method "sum".
@@ -122,11 +122,11 @@ Dart code:
 
 相应的Objective-C代码：
 
-    
+
     [self invokeMethod:@"totalCost"
-             arguments:@[@0.123456789, @10, @[@"testArray"]]
-                result:^(id _Nullable result, NSError * _Nullable error) {
-        NSLog(@"%@", result);
+             arguments:@[@0.123456789, @10, @[@"testArray"]]
+                result:^(id _Nullable result, NSError * _Nullable error) {
+        NSLog(@"%@", result);
     }];
 
 
@@ -152,7 +152,7 @@ Dart code:
 
 #### Dart finalizer
 
-    
+
     final foo = Bar(); // A custom instance.
     unitTest.addFinalizer(() { // register a finalizer callback.
       print('The instance of \'foo\' has been destroyed!'); // When `foo` is destroyed by GC, this line of code will be executed.
@@ -175,8 +175,8 @@ Dart code:
 >       RuntimeSon([Class isa]) : super(Class('RuntimeSon'));
 >       RuntimeSon.fromPointer(Pointer<Voidptr) : super.fromPointer(ptr);
 >     }
-    
-  
+
+
   + 3.2 用 注释您自己的条目（例如main()）@nativeRoot。
 
     
@@ -184,7 +184,7 @@ Dart code:
     void main() {
       runApp(App());
     }
-   
+
 
   + 3.3 运行 
     
@@ -206,7 +206,7 @@ Dart code:
 >       runDartNativeExample(); 
 >       runApp(App());
 >     }
-    
+
 
 - 步骤5：然后就可以编写代码了。以下是一些示例：
 
@@ -239,7 +239,7 @@ Dart code:
     - (void)fooBlock:(BarBlock)block;
     
     @end
-    
+
 
     More iOS examples see: [ios_unit_test.dart](/dart_native/example/lib/ios/unit_test.dart)
 
@@ -256,10 +256,10 @@ Dart code:
 >     // support interface.
 >     stub.setDelegateListener(DelegateStub());
 
-    
+
    对应的Java代码：
 
-    
+
     public class RuntimeStub {
     
     public List<Integer> getList(List<Integer> list) {
@@ -273,7 +273,7 @@ Dart code:
     delegate.callbackInt(1);
     }
     }
-    
+
  更多android示例参见：[https://gitee.com/openharmony-sig/flutter_dart_native/blob/master/dart_native/example/lib/android/unit_test.dart](https://gitee.com/openharmony-sig/flutter_dart_native/blob/master/dart_native/example/lib/android/unit_test.dart "android_unit_test.dart")
 
 注意：如果您在 macOS 上使用 dart_native，则必须use_frameworks!在 Podfile 中使用。
