@@ -1,4 +1,4 @@
-# harmony_fluwx 集成微信服务（2）
+# HarmonyOS next之harmony_fluwx 集成微信服务（2）
 
 fluwx 链接：https://gitee.com/almost777/fluwx
 
@@ -26,9 +26,9 @@ fluwx 链接：https://gitee.com/almost777/fluwx
 
 `sendWeChatAuth`的目的是为了获取code，拿到了code才能进行微信登录，可以通过[官方文档](https://developers.weixin.qq.com/doc/oplatform/Mobile_App/WeChat_Login/Development_Guide.html)查看具体流程。
 
-    
+
      sendWeChatAuth(scope: "snsapi_userinfo", state: "wechat_sdk_demo_test");
-    
+
 
 > 为什么不支持获取用户信息？获取用户信息应该后端来做，即使没有后端，你也可以在dart层自己实现.
 
@@ -52,7 +52,7 @@ Fluwx 支持从`<wx-open-launch-app>`启动你的app, 并且支持传递`extInfo
 
 与此同时，你还需要在需要在application中加上`<meta-data>`,把你的appId放进去:
 
-    
+
     <meta-data
     android:name="weChatAppId"
     android:value="12345678" />
@@ -105,7 +105,6 @@ Fluwx 支持从`<wx-open-launch-app>`启动你的app, 并且支持传递`extInfo
 
 
 > 如你想主动获取从网页传进来的值 ，请主动调用`fluwx.getExtMsg()`。
-
 
 
 
