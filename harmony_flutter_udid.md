@@ -1,4 +1,4 @@
-# harmony_flutter 获取udid
+# HarmonyOS next之harmony_flutter 获取udid
 
 
 
@@ -133,3 +133,4 @@ import 'package:flutter_udid/flutter_udid.dart';
 
 String udid = await FlutterUdid.udid;
 ```
+
