@@ -1,4 +1,4 @@
-# border使用以及单独方向设置
+# HarmonyOS next之border使用以及单独方向设置
 
 以下是在相关开发环境中设置组件边框样式的详细介绍：
 
@@ -36,4 +36,3 @@ Row().border({
     color: { bottom: 'rgba(153, 159, 181, 0.15)' },
 })
 ```
-
