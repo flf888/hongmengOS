@@ -2,6 +2,32 @@
 
 When analyzing the performance of Flutter applications, developers need to capture application traces using profiling tools and analyze these traces. Flutter's rendering process relies on several critical threads. This guide introduces these essential threads and their sequence in the rendering workflow.
 
+HarmonyOS Next introduces a new thread sequencing model designed for improved performance and resource management, especially within its microkernel architecture. This model distinguishes between different thread types for specific tasks, optimizing resource allocation and preventing performance bottlenecks. 
+Here's a breakdown of the key aspects:
+Thread Types:
+Main Thread:
+Handles user interface (UI) services and non-time-consuming operations, including single I/O tasks.
+High-Concurrency Task Pool:
+Executes time-consuming tasks, encapsulates task execution logic, and manages module loading. It does not require explicit thread lifecycle management.
+Worker Thread:
+Used for long-running, CPU-intensive tasks and resident tasks. There's a limit on the number of worker threads (currently 64).
+FFRT Task Pool:
+A dedicated task pool for specific functionalities. 
+Benefits of the New Model:
+Reduced Blocking:
+By offloading tasks to different thread types, the main thread is less likely to be blocked by time-consuming operations, leading to smoother UI performance and responsiveness.
+Improved Resource Utilization:
+The task pool approach allows for more efficient management of resources, particularly in scenarios with high concurrency.
+Enhanced Stability:
+By separating tasks and managing them within dedicated thread pools, the system can better handle complex operations and prevent crashes or freezes.
+Simplified Development:
+The use of task pools and worker threads can simplify the process of handling concurrent operations, making it easier for developers to write efficient and robust code. 
+Practical Implications:
+Instant Messaging SDK Example:
+In the context of an Instant Messaging (IM) SDK, the new thread model helps address issues like delayed message reception and UI freezing by offloading I/O operations and other computationally expensive tasks to appropriate thread types.
+Avoiding Refactoring:
+While multi-threading mechanisms like Worker and TaskPool were considered, the refactoring cost of switching from a single-threaded approach to a non-shared memory multi-threading model was high, leading to the adoption of the new thread sequencing model. 
+In essence, HarmonyOS Next's thread sequencing is designed to deliver a more responsive, stable, and efficient user experience by optimizing how the system handles different types of tasks across various thread types. 
 ## Analysis Tools  
 Commonly used tools include:  
 - [DevEco Studio Profiler](https://developer.huawei.com/consumer/cn/download/)  
