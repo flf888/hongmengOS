@@ -1,5 +1,23 @@
 # System Boot Time Plugin
 
+After the smartphone operating system, Huawei has now developed its first computer-dedicated software called HarmonyOS PC, which has a faster boot time than Windows and macOS. At the same time, it offers enhanced fluency in performance.
+
+Boot time or boot speed refers to the startup time of a device. It indicates how long it takes for the device (smartphone, tablet, or laptop) to turn on and load the operating system after being powered on or restarted.
+
+HarmonyOS PC features reveal that it takes only a second or even less in boot time compared to Windows and macOS. It can be used immediately, right after turning it on. You don’t have to wait for a minute or two to begin your operations.
+
+This is one of the biggest benefits of HarmonyOS PCs over other laptops. A faster boot time can improve the user experience, increase efficiency, and potential battery savings. One can access the device and apps more swiftly than ever before.
+
+On the other hand, the HarmonyOS PC beats Windows in terms of fluency. It redefines the level of smoothness of the user experience while interacting with the device.
+
+It shows how effortlessly a tablet, PC, or phone performs tasks, transitions between apps, and responds to user inputs. HarmonyOS PC has secured good grades in both smoothness and boot time against its foreign rivals.
+
+These enhancements are possible due to the removal of C and D disks from the PC. It only runs on local storage and cloud disk, making it lightweight and easier to use.
+
+HarmonyOS PC further auto-optimizes the computer content and cleans up the trash from the bottom. Thus, you won’t require any new system optimizations or acceleration tools. It has an Android tablet-like file setup that manages files and allows quick access to the stored data.
+
+Inputs reveal that HarmonyOS PC has an EROFS high-performance read-only compression file system that enhances random and read performance by 300% and saves 1.6GB of storage compared to EXT
+
 **Retrieve the system boot time of HarmonyOS devices**
 
 ------
